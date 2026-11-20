@@ -1,0 +1,145 @@
+{
+  "profile": {
+    "rows": 999,
+    "columns": 48,
+    "missing_by_column": {
+      "Certificate": 19,
+      "YearOfIssue": 19
+    },
+    "duplicates": {
+      "Code": 0,
+      "Email": 0,
+      "Fullname": 0
+    },
+    "phone_parsed_as_number_by_default": true,
+    "code_range": [
+      20001,
+      20999
+    ],
+    "dist_Title": {
+      "Senior": 595,
+      "Architect": 176,
+      "Mid-level": 139,
+      "Junior": 85,
+      "Fresher": 4
+    },
+    "dist_Domain": {
+      "Finance": 227,
+      "Technology": 209,
+      "Education": 204,
+      "Media": 185,
+      "Healthcare": 174
+    },
+    "dist_Education": {
+      "Bachelor's Degree": 637,
+      "Master's Degree": 210,
+      "PhD": 136,
+      "Associate Degree": 16
+    },
+    "dist_PerformanceRating": {
+      "Average": 533,
+      "High": 420,
+      "Low": 46
+    },
+    "dist_TeamSize": {
+      "Large": 437,
+      "Small": 287,
+      "Medium": 275
+    },
+    "dist_Language": {
+      "English | Chinese": 261,
+      "English | Japanese": 259,
+      "English": 252,
+      "English | Korean": 227
+    },
+    "skill_holders": {
+      "C#": 287,
+      "Python": 519,
+      "TypeScript": 823,
+      "Golang": 289,
+      "PHP": 268,
+      "HTML": 961,
+      "CSS": 961,
+      ".NET": 287,
+      "React.js": 546
+    },
+    "skill_years_mean_nonzero": {
+      "C#": 2.29,
+      "Python": 2.6,
+      "TypeScript": 3.54,
+      "Golang": 2.23,
+      "PHP": 2.34,
+      "HTML": 4.75,
+      "CSS": 4.75,
+      ".NET": 2.29,
+      "React.js": 2.63
+    },
+    "consistency": {
+      "AtCompany_gt_CompanyTenure": 0,
+      "skill_years_gt_tenure": 9,
+      "CSharp_ne_DotNET": 0,
+      "HTML_ne_CSS": 0,
+      "graduation_after_2026": 0,
+      "age_at_graduation_lt_18": 0,
+      "certificate_year_before_graduation_minus_4": 0,
+      "list_length_mismatch_Project_Role_Technology": 0,
+      "list_length_mismatch_Language_Level": 0
+    },
+    "projects_per_employee": {
+      "count": 999.0,
+      "mean": 5.94,
+      "std": 1.88,
+      "min": 1.0,
+      "25%": 5.0,
+      "50%": 6.0,
+      "75%": 7.0,
+      "max": 9.0
+    }
+  },
+  "resumes": {
+    "files": 281,
+    "codes_in_profile": 281,
+    "pages": {
+      "1": 2,
+      "2": 55,
+      "3": 162,
+      "4": 62
+    },
+    "total_bytes": 1786812,
+    "words": {
+      "count": 281.0,
+      "mean": 619.5,
+      "std": 161.2,
+      "min": 213.0,
+      "25%": 526.0,
+      "50%": 650.0,
+      "75%": 731.0,
+      "max": 977.0
+    },
+    "section_coverage": {
+      "EXPERIENCE SUMMARY": 281,
+      "TECHNICAL SUMMARY": 281,
+      "EDUCATION & QUALIFICATIONS": 281,
+      "PROFESSIONAL EXPERIENCE": 281,
+      "End of Document": 281
+    },
+    "projects_on_resume_eq_manifest": 281,
+    "projects_truncated_resumes": 0,
+    "projects_dropped_total": 0,
+    "skill_values_changed": 1331,
+    "skill_delta_distribution": {
+      "0.5": 54,
+      "1.0": 487,
+      "1.5": 421,
+      "2.0": 369
+    },
+    "resumes_with_capped_skills": 48,
+    "title_distribution_resumes": {
+      "Senior": 166,
+      "Architect": 48,
+      "Mid-level": 43,
+      "Junior": 23,
+      "Fresher": 1
+    }
+  }
+}

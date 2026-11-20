@@ -1,0 +1,55 @@
+{
+  "db": "irm.db",
+  "tables": {
+    "employees": 999,
+    "employee_skill_years": 4941,
+    "employee_projects": 5931,
+    "employee_languages": 1746,
+    "employee_frameworks": 3278,
+    "hr_restricted": 999,
+    "hr_sensitive": 999,
+    "change_log": 0
+  },
+  "cleaning_log": [
+    {
+      "step": "Phone kept as text, '+' prefix enforced",
+      "rows_changed": 0
+    },
+    {
+      "step": "Fullname: trim / collapse whitespace",
+      "rows_changed": 0
+    },
+    {
+      "step": "School: trim / collapse whitespace",
+      "rows_changed": 0
+    },
+    {
+      "step": "Major: trim / collapse whitespace",
+      "rows_changed": 0
+    },
+    {
+      "step": "Domain: trim / collapse whitespace",
+      "rows_changed": 0
+    },
+    {
+      "step": "Title: trim / collapse whitespace",
+      "rows_changed": 0
+    },
+    {
+      "step": "Certificate: trim / collapse whitespace",
+      "rows_changed": 0
+    },
+    {
+      "step": "YearOfIssue float -> nullable integer; empty certificate kept as NULL (no imputation)",
+      "rows_changed": 19
+    },
+    {
+      "step": "TitleRank ordinal added for filtering",
+      "rows_changed": 999
+    },
+    {
+      "step": "Code uniqueness check",
+      "duplicates": 0
+    }
+  ]
+}
