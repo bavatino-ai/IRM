@@ -1,0 +1,147 @@
+{
+ "extraction": {
+  "employee_code": 20498,
+  "full_name": "Huynh Lan Vy",
+  "position": "Software Architect",
+  "current_project": "E-commerce Platform",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 17,
+  "business_domain": "Education",
+  "skills": [
+   {
+    "name": "Python",
+    "years": 3.5
+   },
+   {
+    "name": "TypeScript",
+    "years": 3.0
+   },
+   {
+    "name": "PHP",
+    "years": 6.5
+   },
+   {
+    "name": "HTML",
+    "years": 8.0
+   },
+   {
+    "name": "CSS",
+    "years": 8.0
+   },
+   {
+    "name": "React.js",
+    "years": 3.0
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "Laravel",
+   "Bootstrap",
+   "Next.js",
+   "Vue.js",
+   "React",
+   "Django",
+   "Node.js"
+  ],
+  "databases": [
+   "MySQL",
+   "PostgreSQL"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 7.0"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Microsoft Azure Administrator AZ-104",
+    "year": 2018
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Electrical Engineering",
+   "school": "Ho Chi Minh City University of Information Technology",
+   "start_year": 2000,
+   "graduation_year": 2004
+  },
+  "projects": [
+   {
+    "name": "E-commerce Platform",
+    "role": "Tech Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "07/2024 – Now"
+   },
+   {
+    "name": "Real-time Dashboard",
+    "role": "Tech Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "06/2020 – 06/2024"
+   },
+   {
+    "name": "Logistics Tracking Platform",
+    "role": "Tech Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "08/2018 – 05/2020"
+   },
+   {
+    "name": "Payment Gateway",
+    "role": "Tech Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "07/2016 – 07/2018"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "12/2013 – 06/2016"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Tech Lead",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "05/2012 – 11/2013"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Tech Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "03/2009 – 04/2012"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20498,\"full_name\":\"Huynh Lan Vy\",\"position\":\"Software Architect\",\"current_project\":\"E-commerce Platform\",\"primary_stack\":\"Software Engineer\",\"total_experience_years\":17,\"business_domain\":\"Education\",\"skills\":[{\"name\":\"Python\",\"years\":3.5},{\"name\":\"TypeScript\",\"years\":3},{\"name\":\"PHP\",\"years\":6.5},{\"name\":\"HTML\",\"years\":8},{\"name\":\"CSS\",\"years\":8},{\"name\":\"React.js\",\"years\":3}],\"frameworks\":[\"Spring Framework\",\"Laravel\",\"Bootstrap\",\"Next.js\",\"Vue.js\",\"React\",\"Django\",\"Node.js\"],\"databases\":[\"MySQL\",\"PostgreSQL\"],\"languages\":[{\"language\":\"English\",\"level\":\"IELTS 7.0\"}],\"certificates\":[{\"name\":\"Microsoft Azure Administrator AZ-104\",\"year\":2018}],\"education\":{\"degree_level\":\"Bachelor's Degree\",\"major\":\"Electrical Engineering\",\"school\":\"Ho Chi Minh City University of Information Technology\",\"start_year\":2000,\"graduation_year\":2004},\"projects\":[{\"name\":\"E-commerce Platform\",\"role\":\"Tech Lead\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"07/2024 – Now\"},{\"name\":\"Real-time Dashboard\",\"role\":\"Tech Lead\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"06/2020 – 06/2024\"},{\"name\":\"Logistics Tracking Platform\",\"role\":\"Tech Lead\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"08/2018 – 05/2020\"},{\"name\":\"Payment Gateway\",\"role\":\"Tech Lead\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"07/2016 – 07/2018\"},{\"name\":\"Learning Management System\",\"role\":\"Tech Lead\",\"technologies\":[\"Next.js\",\"Django\",\"PostgreSQL\"],\"period\":\"12/2013 – 06/2016\"},{\"name\":\"AI Chatbot\",\"role\":\"Tech Lead\",\"technologies\":[\"React\",\"Node.js\",\"PostgreSQL\"],\"period\":\"05/2012 – 11/2013\"},{\"name\":\"ERP Solution\",\"role\":\"Tech Lead\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"03/2009 – 04/2012\"}]}",
+ "latency_s": 15.767740699986462,
+ "input_tokens": 830,
+ "output_tokens": 514,
+ "errors": []
+}

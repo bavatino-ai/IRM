@@ -1,0 +1,152 @@
+{
+ "extraction": {
+  "employee_code": 20815,
+  "full_name": "Nguyen Minh Thang",
+  "position": "Backend Architect",
+  "current_project": "Real-time Dashboard",
+  "primary_stack": "Backend Developer",
+  "total_experience_years": 18,
+  "business_domain": "Finance",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 6.5
+   },
+   {
+    "name": "TypeScript",
+    "years": 3.0
+   },
+   {
+    "name": "PHP",
+    "years": 3.0
+   },
+   {
+    "name": "HTML",
+    "years": 9.0
+   },
+   {
+    "name": "CSS",
+    "years": 9.0
+   },
+   {
+    "name": ".NET",
+    "years": 6.5
+   }
+  ],
+  "frameworks": [
+   "Vue.js",
+   ".NET Core",
+   "Spring Framework",
+   "Bootstrap",
+   "Blazor",
+   "NestJS",
+   "Laravel"
+  ],
+  "databases": [
+   "SQL Server",
+   "MySQL",
+   "Redis"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 8.0"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 3"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Oracle Java SE 11 Developer",
+    "year": 1999
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Cybersecurity",
+   "school": "Hanoi University of Science and Technology",
+   "start_year": 1985,
+   "graduation_year": 1989
+  },
+  "projects": [
+   {
+    "name": "Real-time Dashboard",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "03/2025 – Now"
+   },
+   {
+    "name": "IoT Monitoring System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "10/2021 – 02/2025"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Tech Lead",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "06/2018 – 09/2021"
+   },
+   {
+    "name": "Mobile Banking App",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "09/2015 – 05/2018"
+   },
+   {
+    "name": "CRM System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "06/2012 – 08/2015"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Tech Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "10/2009 – 05/2012"
+   },
+   {
+    "name": "Healthcare System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "05/2008 – 09/2009"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20815,\"full_name\":\"Nguyen Minh Thang\",\"position\":\"Backend Architect\",\"current_project\":\"Real-time Dashboard\",\"primary_stack\":\"Backend Developer\",\"total_experience_years\":18,\"business_domain\":\"Finance\",\"skills\":[{\"name\":\"C#\",\"years\":6.5},{\"name\":\"TypeScript\",\"years\":3},{\"name\":\"PHP\",\"years\":3},{\"name\":\"HTML\",\"years\":9},{\"name\":\"CSS\",\"years\":9},{\"name\":\".NET\",\"years\":6.5}],\"frameworks\":[\"Vue.js\",\".NET Core\",\"Spring Framework\",\"Bootstrap\",\"Blazor\",\"NestJS\",\"Laravel\"],\"databases\":[\"SQL Server\",\"MySQL\",\"Redis\"],\"languages\":[{\"language\":\"English\",\"level\":\"IELTS 8.0\"},{\"language\":\"Korean\",\"level\":\"TOPIK Level 3\"}],\"certificates\":[{\"name\":\"Oracle Java SE 11 Developer\",\"year\":1999}],\"education\":{\"degree_level\":\"Bachelor's Degree\",\"major\":\"Cybersecurity\",\"school\":\"Hanoi University of Science and Technology\",\"start_year\":1985,\"graduation_year\":1989},\"projects\":[{\"name\":\"Real-time Dashboard\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"03/2025 – Now\"},{\"name\":\"IoT Monitoring System\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"10/2021 – 02/2025\"},{\"name\":\"E-commerce Platform\",\"role\":\"Tech Lead\",\"technologies\":[\"TypeScript\",\"NestJS\",\"Redis\",\"Docker\"],\"period\":\"06/2018 – 09/2021\"},{\"name\":\"Mobile Banking App\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"09/2015 – 05/2018\"},{\"name\":\"CRM System\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"06/2012 – 08/2015\"},{\"name\":\"ERP Solution\",\"role\":\"Tech Lead\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"10/2009 – 05/2012\"},{\"name\":\"Healthcare System\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"05/2008 – 09/2009\"}]}",
+ "latency_s": 13.684930099989288,
+ "input_tokens": 1088,
+ "output_tokens": 532,
+ "errors": []
+}

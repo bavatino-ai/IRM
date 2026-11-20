@@ -1,0 +1,158 @@
+{
+ "extraction": {
+  "employee_code": 20332,
+  "full_name": "Ha Hung Long",
+  "position": "Senior DevOps Engineer",
+  "current_project": "ERP Solution",
+  "primary_stack": "DevOps Engineer",
+  "total_experience_years": 8,
+  "business_domain": "Technology",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 6.0
+   },
+   {
+    "name": "Python",
+    "years": 3.5
+   },
+   {
+    "name": "TypeScript",
+    "years": 2.5
+   },
+   {
+    "name": "Golang",
+    "years": 2.5
+   },
+   {
+    "name": "HTML",
+    "years": 7.0
+   },
+   {
+    "name": "CSS",
+    "years": 7.0
+   },
+   {
+    "name": ".NET",
+    "years": 6.0
+   },
+   {
+    "name": "React.js",
+    "years": 3.0
+   }
+  ],
+  "frameworks": [
+   "Bootstrap",
+   "Django REST Framework",
+   ".NET Core",
+   "Spring Framework",
+   "FastAPI",
+   "Blazor",
+   "Next.js",
+   "Svelte",
+   "Django",
+   "Go"
+  ],
+  "databases": [
+   "SQL Server",
+   "PostgreSQL",
+   "TimescaleDB"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 7.0"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Microsoft Azure Administrator AZ-104",
+    "year": 2009
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Cybersecurity",
+   "school": "Ho Chi Minh City University of Information Technology",
+   "start_year": 2003,
+   "graduation_year": 2007
+  },
+  "projects": [
+   {
+    "name": "ERP Solution",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "04/2025 – Now"
+   },
+   {
+    "name": "Mobile Banking App",
+    "role": "Tech Lead",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "06/2023 – 03/2025"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "12/2021 – 05/2023"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "09/2020 – 11/2021"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Tech Lead",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "05/2019 – 08/2020"
+   },
+   {
+    "name": "IoT Monitoring System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "10/2018 – 04/2019"
+   },
+   {
+    "name": "CRM System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "03/2018 – 09/2018"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20332,\"full_name\":\"Ha Hung Long\",\"position\":\"Senior DevOps Engineer\",\"current_project\":\"ERP Solution\",\"primary_stack\":\"DevOps Engineer\",\"total_experience_years\":8,\"business_domain\":\"Technology\",\"skills\":[{\"name\":\"C#\",\"years\":6},{\"name\":\"Python\",\"years\":3.5},{\"name\":\"TypeScript\",\"years\":2.5},{\"name\":\"Golang\",\"years\":2.5},{\"name\":\"HTML\",\"years\":7},{\"name\":\"CSS\",\"years\":7},{\"name\":\".NET\",\"years\":6},{\"name\":\"React.js\",\"years\":3}],\"frameworks\":[\"Bootstrap\",\"Django REST Framework\",\".NET Core\",\"Spring Framework\",\"FastAPI\",\"Blazor\",\"Next.js\",\"Svelte\",\"Django\",\"Go\"],\"databases\":[\"SQL Server\",\"PostgreSQL\",\"TimescaleDB\"],\"languages\":[{\"language\":\"English\",\"level\":\"IELTS 7.0\"}],\"certificates\":[{\"name\":\"Microsoft Azure Administrator AZ-104\",\"year\":2009}],\"education\":{\"degree_level\":\"Bachelor's Degree\",\"major\":\"Cybersecurity\",\"school\":\"Ho Chi Minh City University of Information Technology\",\"start_year\":2003,\"graduation_year\":2007},\"projects\":[{\"name\":\"ERP Solution\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"04/2025 – Now\"},{\"name\":\"Mobile Banking App\",\"role\":\"Tech Lead\",\"technologies\":[\"Next.js\",\"Django\",\"PostgreSQL\"],\"period\":\"06/2023 – 03/2025\"},{\"name\":\"Learning Management System\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"12/2021 – 05/2023\"},{\"name\":\"AI Chatbot\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"09/2020 – 11/2021\"},{\"name\":\"Fintech App\",\"role\":\"Tech Lead\",\"technologies\":[\"Svelte\",\"Go\",\"TimescaleDB\"],\"period\":\"05/2019 – 08/2020\"},{\"name\":\"IoT Monitoring System\",\"role\":\"Tech Lead\",\"technologies\":[\"Next.js\",\"Django\",\"PostgreSQL\"],\"period\":\"10/2018 – 04/2019\"},{\"name\":\"CRM System\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"03/2018 – 09/2018\"}]}",
+ "latency_s": 17.742140999995172,
+ "input_tokens": 1088,
+ "output_tokens": 551,
+ "errors": []
+}

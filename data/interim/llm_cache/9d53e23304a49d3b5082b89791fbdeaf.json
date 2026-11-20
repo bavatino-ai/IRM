@@ -1,0 +1,118 @@
+{
+ "extraction": {
+  "employee_code": 20324,
+  "full_name": "Le Thuy Vy",
+  "position": "Senior Data Scientist",
+  "current_project": "CRM System",
+  "primary_stack": "Data Scientist",
+  "total_experience_years": 11,
+  "business_domain": "Healthcare",
+  "skills": [
+   {
+    "name": "Python",
+    "years": 6.0
+   },
+   {
+    "name": "TypeScript",
+    "years": 5.5
+   },
+   {
+    "name": "HTML",
+    "years": 6.5
+   },
+   {
+    "name": "CSS",
+    "years": 6.5
+   }
+  ],
+  "frameworks": [
+   "FastAPI",
+   "Django REST Framework",
+   "Flask",
+   "Nuxt"
+  ],
+  "databases": [
+   "MariaDB"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 8.0"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 3"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "ITIL 4 Foundation",
+    "year": 2017
+   }
+  ],
+  "education": {
+   "degree_level": "PhD",
+   "major": "Artificial Intelligence",
+   "school": "Ton Duc Thang University",
+   "start_year": 2005,
+   "graduation_year": 2009
+  },
+  "projects": [
+   {
+    "name": "CRM System",
+    "role": "Senior Developer",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "05/2024 – Now"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Senior Developer",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "10/2021 – 04/2024"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Senior Developer",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "09/2020 – 09/2021"
+   },
+   {
+    "name": "Real-time Dashboard",
+    "role": "Senior Developer",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "05/2018 – 08/2020"
+   },
+   {
+    "name": "Payment Gateway",
+    "role": "Senior Developer",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "10/2015 – 04/2018"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20324,\n  \"full_name\": \"Le Thuy Vy\",\n  \"position\": \"Senior Data Scientist\",\n  \"current_project\": \"CRM System\",\n  \"primary_stack\": \"Data Scientist\",\n  \"total_experience_years\": 11,\n  \"business_domain\": \"Healthcare\",\n  \"skills\": [\n    {\n      \"name\": \"Python\",\n      \"years\": 6.0\n    },\n    {\n      \"name\": \"TypeScript\",\n      \"years\": 5.5\n    },\n    {\n      \"name\": \"HTML\",\n      \"years\": 6.5\n    },\n    {\n      \"name\": \"CSS\",\n      \"years\": 6.5\n    }\n  ],\n  \"frameworks\": [\n    \"FastAPI\",\n    \"Django REST Framework\",\n    \"Flask\",\n    \"Nuxt\"\n  ],\n  \"databases\": [\n    \"MariaDB\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"IELTS 8.0\"\n    },\n    {\n      \"language\": \"Korean\",\n      \"level\": \"TOPIK Level 3\"\n    }\n  ],\n  \"certificates\": [\n    {\n      \"name\": \"ITIL 4 Foundation\",\n      \"year\": 2017\n    }\n  ],\n  \"education\": {\n    \"degree_level\": \"PhD\",\n    \"major\": \"Artificial Intelligence\",\n    \"school\": \"Ton Duc Thang University\",\n    \"start_year\": 2005,\n    \"graduation_year\": 2009\n  },\n  \"projects\": [\n    {\n      \"name\": \"CRM System\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"05/2024 – Now\"\n    },\n    {\n      \"name\": \"AI Chatbot\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"10/2021 – 04/2024\"\n    },\n    {\n      \"name\": \"Fintech App\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"09/2020 – 09/2021\"\n    },\n    {\n      \"name\": \"Real-time Dashboard\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"05/2018 – 08/2020\"\n    },\n    {\n      \"name\": \"Payment Gateway\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"10/2015 – 04/2018\"\n    }\n  ]\n}",
+ "latency_s": 7.250631199989584,
+ "input_tokens": 3332,
+ "output_tokens": 781,
+ "errors": []
+}

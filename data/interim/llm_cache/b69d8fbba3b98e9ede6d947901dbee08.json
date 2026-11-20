@@ -1,0 +1,85 @@
+{
+ "extraction": {
+  "employee_code": 20678,
+  "full_name": "Phan Anh Giang",
+  "position": "Junior Software Engineer",
+  "current_project": "Real-time Dashboard",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 2,
+  "business_domain": "Education",
+  "skills": [
+   {
+    "name": "TypeScript",
+    "years": 2.0
+   },
+   {
+    "name": "HTML",
+    "years": 2.0
+   },
+   {
+    "name": "CSS",
+    "years": 2.0
+   },
+   {
+    "name": "React.js",
+    "years": 2.0
+   }
+  ],
+  "frameworks": [
+   "Bootstrap",
+   "Spring Framework",
+   "React"
+  ],
+  "databases": [],
+  "languages": [
+   {
+    "language": "English",
+    "level": "Cambridge B2"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 4"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Microsoft Azure Administrator AZ-104",
+    "year": 2024
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Computer Science",
+   "school": "HCM University of Technology",
+   "start_year": 2019,
+   "graduation_year": 2023
+  },
+  "projects": [
+   {
+    "name": "Real-time Dashboard",
+    "role": "Junior Software Engineer",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "04/2025 – Now"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Fresher Software Engineer",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "12/2024 – 03/2025"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20678,\"full_name\":\"Phan Anh Giang\",\"position\":\"Junior Software Engineer\",\"current_project\":\"Real-time Dashboard\",\"primary_stack\":\"Software Engineer\",\"total_experience_years\":2,\"business_domain\":\"Education\",\"skills\":[{\"name\":\"TypeScript\",\"years\":2},{\"name\":\"HTML\",\"years\":2},{\"name\":\"CSS\",\"years\":2},{\"name\":\"React.js\",\"years\":2}],\"frameworks\":[\"Bootstrap\",\"Spring Framework\",\"React\"],\"databases\":[],\"languages\":[{\"language\":\"English\",\"level\":\"Cambridge B2\"},{\"language\":\"Korean\",\"level\":\"TOPIK Level 4\"}],\"certificates\":[{\"name\":\"Microsoft Azure Administrator AZ-104\",\"year\":2024}],\"education\":{\"degree_level\":\"Bachelor's Degree\",\"major\":\"Computer Science\",\"school\":\"HCM University of Technology\",\"start_year\":2019,\"graduation_year\":2023},\"projects\":[{\"name\":\"Real-time Dashboard\",\"role\":\"Junior Software Engineer\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"04/2025 – Now\"},{\"name\":\"Fintech App\",\"role\":\"Fresher Software Engineer\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"12/2024 – 03/2025\"}]}",
+ "latency_s": 9.972982900013449,
+ "input_tokens": 572,
+ "output_tokens": 274,
+ "errors": []
+}

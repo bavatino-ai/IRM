@@ -1,0 +1,150 @@
+{
+ "extraction": {
+  "employee_code": 20508,
+  "full_name": "Cao Bao Manh",
+  "position": "Software Architect",
+  "current_project": "CRM System",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 19,
+  "business_domain": "Education",
+  "skills": [
+   {
+    "name": "Python",
+    "years": 2.5
+   },
+   {
+    "name": "TypeScript",
+    "years": 7.0
+   },
+   {
+    "name": "PHP",
+    "years": 3.0
+   },
+   {
+    "name": "HTML",
+    "years": 8.0
+   },
+   {
+    "name": "CSS",
+    "years": 8.0
+   }
+  ],
+  "frameworks": [
+   "React.js",
+   "Next.js",
+   "Spring Framework",
+   "Flask",
+   "Laravel",
+   "Vue.js",
+   "React",
+   "Angular",
+   "Spring Boot",
+   "Django"
+  ],
+  "databases": [
+   "Oracle",
+   "PostgreSQL",
+   "MySQL"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "Cambridge B2"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 4"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Microsoft Azure Administrator AZ-104",
+    "year": 2012
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Cybersecurity",
+   "school": "Ton Duc Thang University",
+   "start_year": 1992,
+   "graduation_year": 1996
+  },
+  "projects": [
+   {
+    "name": "CRM System",
+    "role": "Architect",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "08/2023 – Now"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Architect",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "05/2020 – 07/2023"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Architect",
+    "technologies": [
+     "Angular",
+     "Spring Boot",
+     "Oracle"
+    ],
+    "period": "07/2017 – 04/2020"
+   },
+   {
+    "name": "Logistics Tracking Platform",
+    "role": "Architect",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "06/2015 – 06/2017"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Architect",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "06/2013 – 05/2015"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Architect",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "09/2011 – 05/2013"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Architect",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "04/2007 – 08/2011"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20508,\"full_name\":\"Cao Bao Manh\",\"position\":\"Software Architect\",\"current_project\":\"CRM System\",\"primary_stack\":\"Software Engineer\",\"total_experience_years\":19,\"business_domain\":\"Education\",\"skills\":[{\"name\":\"Python\",\"years\":2.5},{\"name\":\"TypeScript\",\"years\":7},{\"name\":\"PHP\",\"years\":3},{\"name\":\"HTML\",\"years\":8},{\"name\":\"CSS\",\"years\":8}],\"frameworks\":[\"React.js\",\"Next.js\",\"Spring Framework\",\"Flask\",\"Laravel\",\"Vue.js\",\"React\",\"Angular\",\"Spring Boot\",\"Django\"],\"databases\":[\"Oracle\",\"PostgreSQL\",\"MySQL\"],\"languages\":[{\"language\":\"English\",\"level\":\"Cambridge B2\"},{\"language\":\"Korean\",\"level\":\"TOPIK Level 4\"}],\"certificates\":[{\"name\":\"Microsoft Azure Administrator AZ-104\",\"year\":2012}],\"education\":{\"degree_level\":\"Bachelor's Degree\",\"major\":\"Cybersecurity\",\"school\":\"Ton Duc Thang University\",\"start_year\":1992,\"graduation_year\":1996},\"projects\":[{\"name\":\"CRM System\",\"role\":\"Architect\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"08/2023 – Now\"},{\"name\":\"Fintech App\",\"role\":\"Architect\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"05/2020 – 07/2023\"},{\"name\":\"ERP Solution\",\"role\":\"Architect\",\"technologies\":[\"Angular\",\"Spring Boot\",\"Oracle\"],\"period\":\"07/2017 – 04/2020\"},{\"name\":\"Logistics Tracking Platform\",\"role\":\"Architect\",\"technologies\":[\"Next.js\",\"Django\",\"PostgreSQL\"],\"period\":\"06/2015 – 06/2017\"},{\"name\":\"E-commerce Platform\",\"role\":\"Architect\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"06/2013 – 05/2015\"},{\"name\":\"Learning Management System\",\"role\":\"Architect\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"09/2011 – 05/2013\"},{\"name\":\"AI Chatbot\",\"role\":\"Architect\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"04/2007 – 08/2011\"}]}",
+ "latency_s": 13.378079200017964,
+ "input_tokens": 830,
+ "output_tokens": 500,
+ "errors": []
+}

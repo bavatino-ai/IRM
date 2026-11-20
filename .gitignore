@@ -8,8 +8,10 @@ __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
 # regenerable artefacts (rebuild with run.py)
-data/interim/
+data/interim/*
+# ...except the Gemini response cache: lets the evaluator replay the Week 1
+# Gemini tier runs offline, with no API key (python run.py extract ... --set sample)
+!data/interim/llm_cache/
 data/processed/irm.db
-doc/issue_log.md
 *.log
 .DS_Store

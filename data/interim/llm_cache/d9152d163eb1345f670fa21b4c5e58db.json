@@ -1,0 +1,162 @@
+{
+ "extraction": {
+  "employee_code": 20899,
+  "full_name": "Huynh Dat Phong",
+  "position": "Senior Backend Developer",
+  "current_project": "AI Chatbot",
+  "primary_stack": "Backend Developer",
+  "total_experience_years": 12,
+  "business_domain": "Healthcare",
+  "skills": [
+   {
+    "name": "Python",
+    "years": 7.5
+   },
+   {
+    "name": "TypeScript",
+    "years": 8.0
+   },
+   {
+    "name": "PHP",
+    "years": 3.0
+   },
+   {
+    "name": "HTML",
+    "years": 9.0
+   },
+   {
+    "name": "CSS",
+    "years": 9.0
+   },
+   {
+    "name": "React.js",
+    "years": 2.5
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "Laravel",
+   "Next.js",
+   "Bootstrap",
+   "FastAPI",
+   "Nuxt",
+   "Vue.js",
+   "Django"
+  ],
+  "databases": [
+   "MariaDB",
+   "MySQL",
+   "PostgreSQL"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "TOEFL 100"
+   },
+   {
+    "language": "Japanese",
+    "level": "JLPT N3"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "PMP - Project Management Professional",
+    "year": 2006
+   }
+  ],
+  "education": {
+   "degree_level": "Master's Degree",
+   "major": "Data Science",
+   "school": "HCM University of Technology",
+   "start_year": 1992,
+   "graduation_year": 1994
+  },
+  "projects": [
+   {
+    "name": "AI Chatbot",
+    "role": "Tech Lead",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "04/2025 – Now"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Tech Lead",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "06/2023 – 03/2025"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Tech Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "09/2021 – 05/2023"
+   },
+   {
+    "name": "CRM System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "12/2019 – 08/2021"
+   },
+   {
+    "name": "Healthcare System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "01/2019 – 11/2019"
+   },
+   {
+    "name": "Real-time Dashboard",
+    "role": "Tech Lead",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "04/2017 – 12/2018"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Tech Lead",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "01/2016 – 03/2017"
+   },
+   {
+    "name": "Payment Gateway",
+    "role": "Tech Lead",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "12/2014 – 12/2015"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20899,\n  \"full_name\": \"Huynh Dat Phong\",\n  \"position\": \"Senior Backend Developer\",\n  \"current_project\": \"AI Chatbot\",\n  \"primary_stack\": \"Backend Developer\",\n  \"total_experience_years\": 12,\n  \"business_domain\": \"Healthcare\",\n  \"skills\": [\n    {\n      \"name\": \"Python\",\n      \"years\": 7.5\n    },\n    {\n      \"name\": \"TypeScript\",\n      \"years\": 8\n    },\n    {\n      \"name\": \"PHP\",\n      \"years\": 3\n    },\n    {\n      \"name\": \"HTML\",\n      \"years\": 9\n    },\n    {\n      \"name\": \"CSS\",\n      \"years\": 9\n    },\n    {\n      \"name\": \"React.js\",\n      \"years\": 2.5\n    }\n  ],\n  \"frameworks\": [\n    \"Spring Framework\",\n    \"Laravel\",\n    \"Next.js\",\n    \"Bootstrap\",\n    \"FastAPI\",\n    \"Nuxt\",\n    \"Vue.js\",\n    \"Django\"\n  ],\n  \"databases\": [\n    \"MariaDB\",\n    \"MySQL\",\n    \"PostgreSQL\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"TOEFL 100\"\n    },\n    {\n      \"language\": \"Japanese\",\n      \"level\": \"JLPT N3\"\n    }\n  ],\n  \"certificates\": [\n    {\n      \"name\": \"PMP - Project Management Professional\",\n      \"year\": 2006\n    }\n  ],\n  \"education\": {\n    \"degree_level\": \"Master's Degree\",\n    \"major\": \"Data Science\",\n    \"school\": \"HCM University of Technology\",\n    \"start_year\": 1992,\n    \"graduation_year\": 1994\n  },\n  \"projects\": [\n    {\n      \"name\": \"AI Chatbot\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"04/2025 – Now\"\n    },\n    {\n      \"name\": \"E-commerce Platform\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"06/2023 – 03/2025\"\n    },\n    {\n      \"name\": \"ERP Solution\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Vue.js\",\n        \"Laravel\",\n        \"MySQL\"\n      ],\n      \"period\": \"09/2021 – 05/2023\"\n    },\n    {\n      \"name\": \"CRM System\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Next.js\",\n        \"Django\",\n        \"PostgreSQL\"\n      ],\n      \"period\": \"12/2019 – 08/2021\"\n    },\n    {\n      \"name\": \"Healthcare System\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"01/2019 – 11/2019\"\n    },\n    {\n      \"name\": \"Real-time Dashboard\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"04/2017 – 12/2018\"\n    },\n    {\n      \"name\": \"Fintech App\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"01/2016 – 03/2017\"\n    },\n    {\n      \"name\": \"Payment Gateway\",\n      \"role\": \"Tech Lead\",\n      \"technologies\": [\n        \"Nuxt\",\n        \"FastAPI\",\n        \"MariaDB\"\n      ],\n      \"period\": \"12/2014 – 12/2015\"\n    }\n  ]\n}",
+ "latency_s": 4.796015899992199,
+ "input_tokens": 4424,
+ "output_tokens": 1084,
+ "errors": []
+}

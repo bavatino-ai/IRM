@@ -1,0 +1,142 @@
+{
+ "extraction": {
+  "employee_code": 20528,
+  "full_name": "Vu Yen Chi",
+  "position": "Middle Software Engineer",
+  "current_project": "E-commerce Platform",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 3,
+  "business_domain": "Technology",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 1.5
+   },
+   {
+    "name": "Python",
+    "years": 3.0
+   },
+   {
+    "name": "TypeScript",
+    "years": 3.0
+   },
+   {
+    "name": "Golang",
+    "years": 1.5
+   },
+   {
+    "name": "HTML",
+    "years": 3.0
+   },
+   {
+    "name": "CSS",
+    "years": 3.0
+   },
+   {
+    "name": ".NET",
+    "years": 1.5
+   },
+   {
+    "name": "React.js",
+    "years": 3.0
+   }
+  ],
+  "frameworks": [
+   "FastAPI",
+   "Bootstrap",
+   "Spring Framework",
+   "Django REST Framework",
+   "Next.js",
+   "Svelte",
+   "Blazor",
+   "Django",
+   "Go",
+   ".NET Core"
+  ],
+  "databases": [
+   "PostgreSQL",
+   "TimescaleDB",
+   "SQL Server"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "TOEFL 85"
+   },
+   {
+    "language": "Japanese",
+    "level": "JLPT N2"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "PMP - Project Management Professional",
+    "year": 2025
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Artificial Intelligence",
+   "school": "Ho Chi Minh City University of Information Technology",
+   "start_year": 2013,
+   "graduation_year": 2017
+  },
+  "projects": [
+   {
+    "name": "E-commerce Platform",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "04/2026 – Now"
+   },
+   {
+    "name": "CRM System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "11/2025 – 03/2026"
+   },
+   {
+    "name": "Mobile Banking App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "02/2025 – 10/2025"
+   },
+   {
+    "name": "Healthcare System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "04/2024 – 01/2025"
+   },
+   {
+    "name": "Payment Gateway",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "10/2023 – 03/2024"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20528,\n  \"full_name\": \"Vu Yen Chi\",\n  \"position\": \"Middle Software Engineer\",\n  \"current_project\": \"E-commerce Platform\",\n  \"primary_stack\": \"Software Engineer\",\n  \"total_experience_years\": 3,\n  \"business_domain\": \"Technology\",\n  \"skills\": [\n    {\n      \"name\": \"C#\",\n      \"years\": 1.5\n    },\n    {\n      \"name\": \"Python\",\n      \"years\": 3.0\n    },\n    {\n      \"name\": \"TypeScript\",\n      \"years\": 3.0\n    },\n    {\n      \"name\": \"Golang\",\n      \"years\": 1.5\n    },\n    {\n      \"name\": \"HTML\",\n      \"years\": 3.0\n    },\n    {\n      \"name\": \"CSS\",\n      \"years\": 3.0\n    },\n    {\n      \"name\": \".NET\",\n      \"years\": 1.5\n    },\n    {\n      \"name\": \"React.js\",\n      \"years\": 3.0\n    }\n  ],\n  \"frameworks\": [\n    \"FastAPI\",\n    \"Bootstrap\",\n    \"Spring Framework\",\n    \"Django REST Framework\",\n    \"Next.js\",\n    \"Svelte\",\n    \"Blazor\",\n    \"Django\",\n    \"Go\",\n    \".NET Core\"\n  ],\n  \"databases\": [\n    \"PostgreSQL\",\n    \"TimescaleDB\",\n    \"SQL Server\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"TOEFL 85\"\n    },\n    {\n      \"language\": \"Japanese\",\n      \"level\": \"JLPT N2\"\n    }\n  ],\n  \"certificates\": [\n    {\n      \"name\": \"PMP - Project Management Professional\",\n      \"year\": 2025\n    }\n  ],\n  \"education\": {\n    \"degree_level\": \"Bachelor's Degree\",\n    \"major\": \"Artificial Intelligence\",\n    \"school\": \"Ho Chi Minh City University of Information Technology\",\n    \"start_year\": 2013,\n    \"graduation_year\": 2017\n  },\n  \"projects\": [\n    {\n      \"name\": \"E-commerce Platform\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Next.js\",\n        \"Django\",\n        \"PostgreSQL\"\n      ],\n      \"period\": \"04/2026 – Now\"\n    },\n    {\n      \"name\": \"CRM System\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Svelte\",\n        \"Go\",\n        \"TimescaleDB\"\n      ],\n      \"period\": \"11/2025 – 03/2026\"\n    },\n    {\n      \"name\": \"Mobile Banking App\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Blazor\",\n        \".NET Core\",\n        \"SQL Server\"\n      ],\n      \"period\": \"02/2025 – 10/2025\"\n    },\n    {\n      \"name\": \"Healthcare System\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Next.js\",\n        \"Django\",\n        \"PostgreSQL\"\n      ],\n      \"period\": \"04/2024 – 01/2025\"\n    },\n    {\n      \"name\": \"Payment Gateway\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Next.js\",\n        \"Django\",\n        \"PostgreSQL\"\n      ],\n      \"period\": \"10/2023 – 03/2024\"\n    }\n  ]\n}",
+ "latency_s": 6.488703099996201,
+ "input_tokens": 3332,
+ "output_tokens": 940,
+ "errors": []
+}

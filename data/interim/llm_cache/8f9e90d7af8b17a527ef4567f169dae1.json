@@ -1,0 +1,60 @@
+{
+ "extraction": {
+  "employee_code": 20952,
+  "full_name": "Doan Huong Anh",
+  "position": "Fresher Data Analyst",
+  "current_project": "Mobile Banking App",
+  "primary_stack": "Data Analyst",
+  "total_experience_years": 4,
+  "business_domain": "Education",
+  "skills": [],
+  "frameworks": [
+   "Spring Framework",
+   "Flutter"
+  ],
+  "databases": [
+   "MongoDB",
+   "Firebase"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "Cambridge C1"
+   },
+   {
+    "language": "Chinese",
+    "level": "HSK 5"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Cisco CCNA 200-301",
+    "year": 2024
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Artificial Intelligence",
+   "school": "Hanoi University of Science and Technology",
+   "start_year": 2019,
+   "graduation_year": 2023
+  },
+  "projects": [
+   {
+    "name": "Mobile Banking App",
+    "role": "Developer",
+    "technologies": [
+     "Flutter",
+     "Firebase",
+     "MongoDB"
+    ],
+    "period": "10/2026 – Now"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20952,\n  \"full_name\": \"Doan Huong Anh\",\n  \"position\": \"Fresher Data Analyst\",\n  \"current_project\": \"Mobile Banking App\",\n  \"primary_stack\": \"Data Analyst\",\n  \"total_experience_years\": 4,\n  \"business_domain\": \"Education\",\n  \"skills\": [],\n  \"frameworks\": [\n    \"Spring Framework\",\n    \"Flutter\"\n  ],\n  \"databases\": [\n    \"MongoDB\",\n    \"Firebase\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"Cambridge C1\"\n    },\n    {\n      \"language\": \"Chinese\",\n      \"level\": \"HSK 5\"\n    }\n  ],\n  \"certificates\": [\n    {\n      \"name\": \"Cisco CCNA 200-301\",\n      \"year\": 2024\n    }\n  ],\n  \"education\": {\n    \"degree_level\": \"Bachelor's Degree\",\n    \"major\": \"Artificial Intelligence\",\n    \"school\": \"Hanoi University of Science and Technology\",\n    \"start_year\": 2019,\n    \"graduation_year\": 2023\n  },\n  \"projects\": [\n    {\n      \"name\": \"Mobile Banking App\",\n      \"role\": \"Developer\",\n      \"technologies\": [\n        \"Flutter\",\n        \"Firebase\",\n        \"MongoDB\"\n      ],\n      \"period\": \"10/2026 – Now\"\n    }\n  ]\n}",
+ "latency_s": 5.9726017999928445,
+ "input_tokens": 2240,
+ "output_tokens": 379,
+ "errors": []
+}

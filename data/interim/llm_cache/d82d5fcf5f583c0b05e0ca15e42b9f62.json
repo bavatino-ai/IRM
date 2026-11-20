@@ -1,0 +1,148 @@
+{
+ "extraction": {
+  "employee_code": 20443,
+  "full_name": "Trinh Quang Long",
+  "position": "Senior Software Engineer",
+  "current_project": "CRM System",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 13,
+  "business_domain": "Media",
+  "skills": [
+   {
+    "name": "TypeScript",
+    "years": 2.5
+   },
+   {
+    "name": "Golang",
+    "years": 7.0
+   },
+   {
+    "name": "PHP",
+    "years": 2.5
+   },
+   {
+    "name": "HTML",
+    "years": 9.0
+   },
+   {
+    "name": "CSS",
+    "years": 9.0
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "Bootstrap",
+   "Svelte",
+   "Angular",
+   "Vue.js",
+   "Go",
+   "Spring Boot",
+   "Laravel"
+  ],
+  "databases": [
+   "TimescaleDB",
+   "Oracle",
+   "MySQL"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 8.0"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 3"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "AWS Certified Developer - Associate",
+    "year": 2014
+   }
+  ],
+  "education": {
+   "degree_level": "Master's Degree",
+   "major": "Electrical Engineering",
+   "school": "Vietnam National University HCMC",
+   "start_year": 2004,
+   "graduation_year": 2006
+  },
+  "projects": [
+   {
+    "name": "CRM System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "10/2024 – Now"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "01/2022 – 09/2024"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "10/2019 – 12/2021"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Angular",
+     "Spring Boot",
+     "Oracle"
+    ],
+    "period": "03/2018 – 09/2019"
+   },
+   {
+    "name": "Payment Gateway",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "03/2016 – 02/2018"
+   },
+   {
+    "name": "IoT Monitoring System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "02/2015 – 02/2016"
+   },
+   {
+    "name": "Mobile Banking App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "02/2013 – 01/2015"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20443,\n  \"full_name\": \"Trinh Quang Long\",\n  \"position\": \"Senior Software Engineer\",\n  \"current_project\": \"CRM System\",\n  \"primary_stack\": \"Software Engineer\",\n  \"total_experience_years\": 13,\n  \"business_domain\": \"Media\",\n  \"skills\": [\n    {\n      \"name\": \"TypeScript\",\n      \"years\": 2.5\n    },\n    {\n      \"name\": \"Golang\",\n      \"years\": 7.0\n    },\n    {\n      \"name\": \"PHP\",\n      \"years\": 2.5\n    },\n    {\n      \"name\": \"HTML\",\n      \"years\": 9.0\n    },\n    {\n      \"name\": \"CSS\",\n      \"years\": 9.0\n    }\n  ],\n  \"frameworks\": [\n    \"Spring Framework\",\n    \"Bootstrap\",\n    \"Svelte\",\n    \"Angular\",\n    \"Vue.js\",\n    \"Go\",\n    \"Spring Boot\",\n    \"Laravel\"\n  ],\n  \"databases\": [\n    \"TimescaleDB\",\n    \"Oracle\",\n    \"MySQL\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"IELTS 8.0\"\n    },\n    {\n      \"language\": \"Korean\",\n      \"level\": \"TOPIK Level 3\"\n    }\n  ],\n  \"certificates\": [\n    {\n      \"name\": \"AWS Certified Developer - Associate\",\n      \"year\": 2014\n    }\n  ],\n  \"education\": {\n    \"degree_level\": \"Master's Degree\",\n    \"major\": \"Electrical Engineering\",\n    \"school\": \"Vietnam National University HCMC\",\n    \"start_year\": 2004,\n    \"graduation_year\": 2006\n  },\n  \"projects\": [\n    {\n      \"name\": \"CRM System\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Svelte\",\n        \"Go\",\n        \"TimescaleDB\"\n      ],\n      \"period\": \"10/2024 \\u2013 Now\"\n    },\n    {\n      \"name\": \"AI Chatbot\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Svelte\",\n        \"Go\",\n        \"TimescaleDB\"\n      ],\n      \"period\": \"01/2022 \\u2013 09/2024\"\n    },\n    {\n      \"name\": \"E-commerce Platform\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Svelte\",\n        \"Go\",\n        \"TimescaleDB\"\n      ],\n      \"period\": \"10/2019 \\u2013 12/2021\"\n    },\n    {\n      \"name\": \"Fintech App\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Angular\",\n        \"Spring Boot\",\n        \"Oracle\"\n      ],\n      \"period\": \"03/2018 \\u2013 09/2019\"\n    },\n    {\n      \"name\": \"Payment Gateway\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Svelte\",\n        \"Go\",\n        \"TimescaleDB\"\n      ],\n      \"period\": \"03/2016 \\u2013 02/2018\"\n    },\n    {\n      \"name\": \"IoT Monitoring System\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Svelte\",\n        \"Go\",\n        \"TimescaleDB\"\n      ],\n      \"period\": \"02/2015 \\u2013 02/2016\"\n    },\n    {\n      \"name\": \"Mobile Banking App\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"Vue.js\",\n        \"Laravel\",\n        \"MySQL\"\n      ],\n      \"period\": \"02/2013 \\u2013 01/2015\"\n    }\n  ]\n}",
+ "latency_s": 6.7120807000028435,
+ "input_tokens": 3332,
+ "output_tokens": 1038,
+ "errors": []
+}

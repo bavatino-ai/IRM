@@ -1,0 +1,127 @@
+{
+ "extraction": {
+  "employee_code": 20799,
+  "full_name": "Tong Bich Dung",
+  "position": "Senior QA Engineer",
+  "current_project": "Real-time Dashboard",
+  "primary_stack": "QA Engineer",
+  "total_experience_years": 8,
+  "business_domain": "Technology",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 5.0
+   },
+   {
+    "name": "HTML",
+    "years": 6.5
+   },
+   {
+    "name": "CSS",
+    "years": 6.5
+   },
+   {
+    "name": ".NET",
+    "years": 5.0
+   },
+   {
+    "name": "React.js",
+    "years": 2.5
+   }
+  ],
+  "frameworks": [
+   "Vue.js",
+   ".NET Core",
+   "React Native",
+   "Spring Framework",
+   "Bootstrap",
+   "Blazor",
+   "React",
+   "Node.js"
+  ],
+  "databases": [
+   "SQL Server",
+   "PostgreSQL"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 8.0"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 3"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Oracle Java SE 11 Developer",
+    "year": 2016
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Business Administration",
+   "school": "Hanoi University of Science and Technology",
+   "start_year": 1985,
+   "graduation_year": 1989
+  },
+  "projects": [
+   {
+    "name": "Real-time Dashboard",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "12/2024 – Now"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "01/2023 – 11/2024"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Team Lead",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "04/2021 – 12/2022"
+   },
+   {
+    "name": "IoT Monitoring System",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "09/2019 – 03/2021"
+   },
+   {
+    "name": "Healthcare System",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "03/2018 – 08/2019"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\": 20799, \"full_name\": \"Tong Bich Dung\", \"position\": \"Senior QA Engineer\", \"current_project\": \"Real-time Dashboard\", \"primary_stack\": \"QA Engineer\", \"total_experience_years\": 8, \"business_domain\": \"Technology\", \"skills\": [{\"name\": \"C#\", \"years\": 5}, {\"name\": \"HTML\", \"years\": 6.5}, {\"name\": \"CSS\", \"years\": 6.5}, {\"name\": \".NET\", \"years\": 5}, {\"name\": \"React.js\", \"years\": 2.5}], \"frameworks\": [\"Vue.js\", \".NET Core\", \"React Native\", \"Spring Framework\", \"Bootstrap\", \"Blazor\", \"React\", \"Node.js\"], \"databases\": [\"SQL Server\", \"PostgreSQL\"], \"languages\": [{\"language\": \"English\", \"level\": \"IELTS 8.0\"}, {\"language\": \"Korean\", \"level\": \"TOPIK Level 3\"}], \"certificates\": [{\"name\": \"Oracle Java SE 11 Developer\", \"year\": 2016}], \"education\": {\"degree_level\": \"Bachelor's Degree\", \"major\": \"Business Administration\", \"school\": \"Hanoi University of Science and Technology\", \"start_year\": 1985, \"graduation_year\": 1989}, \"projects\": [{\"name\": \"Real-time Dashboard\", \"role\": \"Team Lead\", \"technologies\": [\"Blazor\", \".NET Core\", \"SQL Server\"], \"period\": \"12/2024 – Now\"}, {\"name\": \"Fintech App\", \"role\": \"Team Lead\", \"technologies\": [\"Blazor\", \".NET Core\", \"SQL Server\"], \"period\": \"01/2023 – 11/2024\"}, {\"name\": \"E-commerce Platform\", \"role\": \"Team Lead\", \"technologies\": [\"React\", \"Node.js\", \"PostgreSQL\"], \"period\": \"04/2021 – 12/2022\"}, {\"name\": \"IoT Monitoring System\", \"role\": \"Team Lead\", \"technologies\": [\"Blazor\", \".NET Core\", \"SQL Server\"], \"period\": \"09/2019 – 03/2021\"}, {\"name\": \"Healthcare System\", \"role\": \"Team Lead\", \"technologies\": [\"Blazor\", \".NET Core\", \"SQL Server\"], \"period\": \"03/2018 – 08/2019\"}]}",
+ "latency_s": 13.422226100025,
+ "input_tokens": 830,
+ "output_tokens": 562,
+ "errors": []
+}

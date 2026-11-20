@@ -1,0 +1,125 @@
+{
+ "extraction": {
+  "employee_code": 20959,
+  "full_name": "Vo Thuy Chau",
+  "position": "Senior Backend Developer",
+  "current_project": "E-commerce Platform",
+  "primary_stack": "Backend Developer",
+  "total_experience_years": 9,
+  "business_domain": "Finance",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 5.5
+   },
+   {
+    "name": "Golang",
+    "years": 2.0
+   },
+   {
+    "name": "HTML",
+    "years": 6.5
+   },
+   {
+    "name": "CSS",
+    "years": 6.5
+   },
+   {
+    "name": ".NET",
+    "years": 5.5
+   }
+  ],
+  "frameworks": [
+   "Bootstrap",
+   "Vue.js",
+   ".NET Core",
+   "Blazor",
+   "Svelte",
+   "Go"
+  ],
+  "databases": [
+   "SQL Server",
+   "TimescaleDB"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 8.0"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 3"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "AWS Certified Developer - Associate",
+    "year": 2018
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Computer Science",
+   "school": "Hanoi University of Science and Technology",
+   "start_year": 2006,
+   "graduation_year": 2010
+  },
+  "projects": [
+   {
+    "name": "E-commerce Platform",
+    "role": "Senior Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "08/2024 – Now"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Senior Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "08/2022 – 07/2024"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Senior Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "03/2021 – 07/2022"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Senior Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "01/2019 – 02/2021"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Senior Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "12/2017 – 12/2018"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20959,\n  \"full_name\": \"Vo Thuy Chau\",\n  \"position\": \"Senior Backend Developer\",\n  \"current_project\": \"E-commerce Platform\",\n  \"primary_stack\": \"Backend Developer\",\n  \"total_experience_years\": 9,\n  \"business_domain\": \"Finance\",\n  \"skills\": [\n    {\n      \"name\": \"C#\",\n      \"years\": 5.5\n    },\n    {\n      \"name\": \"Golang\",\n      \"years\": 2.0\n    },\n    {\n      \"name\": \"HTML\",\n      \"years\": 6.5\n    },\n    {\n      \"name\": \"CSS\",\n      \"years\": 6.5\n    },\n    {\n      \"name\": \".NET\",\n      \"years\": 5.5\n    }\n  ],\n  \"frameworks\": [\n    \"Bootstrap\",\n    \"Vue.js\",\n    \".NET Core\",\n    \"Blazor\",\n    \"Svelte\",\n    \"Go\"\n  ],\n  \"databases\": [\n    \"SQL Server\",\n    \"TimescaleDB\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"IELTS 8.0\"\n    },\n    {\n      \"language\": \"Korean\",\n      \"level\": \"TOPIK Level 3\"\n    }\n  ],\n  \"certificates\": [\n    {\n      \"name\": \"AWS Certified Developer - Associate\",\n      \"year\": 2018\n    }\n  ],\n  \"education\": {\n    \"degree_level\": \"Bachelor's Degree\",\n    \"major\": \"Computer Science\",\n    \"school\": \"Hanoi University of Science and Technology\",\n    \"start_year\": 2006,\n    \"graduation_year\": 2010\n  },\n  \"projects\": [\n    {\n      \"name\": \"E-commerce Platform\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Blazor\",\n        \".NET Core\",\n        \"SQL Server\"\n      ],\n      \"period\": \"08/2024 \\u2013 Now\"\n    },\n    {\n      \"name\": \"AI Chatbot\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Svelte\",\n        \"Go\",\n        \"TimescaleDB\"\n      ],\n      \"period\": \"08/2022 \\u2013 07/2024\"\n    },\n    {\n      \"name\": \"Fintech App\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Blazor\",\n        \".NET Core\",\n        \"SQL Server\"\n      ],\n      \"period\": \"03/2021 \\u2013 07/2022\"\n    },\n    {\n      \"name\": \"Learning Management System\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Blazor\",\n        \".NET Core\",\n        \"SQL Server\"\n      ],\n      \"period\": \"01/2019 \\u2013 02/2021\"\n    },\n    {\n      \"name\": \"ERP Solution\",\n      \"role\": \"Senior Developer\",\n      \"technologies\": [\n        \"Blazor\",\n        \".NET Core\",\n        \"SQL Server\"\n      ],\n      \"period\": \"12/2017 \\u2013 12/2018\"\n    }\n  ]\n}",
+ "latency_s": 8.30971440000576,
+ "input_tokens": 3332,
+ "output_tokens": 856,
+ "errors": []
+}

@@ -1,0 +1,120 @@
+{
+ "extraction": {
+  "employee_code": 20210,
+  "full_name": "Tong Ngoc Nhi",
+  "position": "Senior Software Engineer",
+  "current_project": "Payment Gateway",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 8,
+  "business_domain": "Technology",
+  "skills": [
+   {
+    "name": "TypeScript",
+    "years": 6.5
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "NestJS"
+  ],
+  "databases": [
+   "Redis"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 7.5"
+   },
+   {
+    "language": "Chinese",
+    "level": "HSK 6"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "PMP - Project Management Professional",
+    "year": 2023
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Electrical Engineering",
+   "school": "HCM University of Technology",
+   "start_year": 1997,
+   "graduation_year": 2001
+  },
+  "projects": [
+   {
+    "name": "Payment Gateway",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "10/2025 – Now"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "01/2024 – 09/2025"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "03/2022 – 12/2023"
+   },
+   {
+    "name": "IoT Monitoring System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "10/2020 – 02/2022"
+   },
+   {
+    "name": "Logistics Tracking Platform",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "06/2019 – 09/2020"
+   },
+   {
+    "name": "CRM System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "09/2018 – 05/2019"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20210,\n  \"full_name\": \"Tong Ngoc Nhi\",\n  \"position\": \"Senior Software Engineer\",\n  \"current_project\": \"Payment Gateway\",\n  \"primary_stack\": \"Software Engineer\",\n  \"total_experience_years\": 8,\n  \"business_domain\": \"Technology\",\n  \"skills\": [\n    {\n      \"name\": \"TypeScript\",\n      \"years\": 6.5\n    }\n  ],\n  \"frameworks\": [\n    \"Spring Framework\",\n    \"NestJS\"\n  ],\n  \"databases\": [\n    \"Redis\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"IELTS 7.5\"\n    },\n    {\n      \"language\": \"Chinese\",\n      \"level\": \"HSK 6\"\n    }\n  ],\n  \"certificates\": [\n    {\n      \"name\": \"PMP - Project Management Professional\",\n      \"year\": 2023\n    }\n  ],\n  \"education\": {\n    \"degree_level\": \"Bachelor's Degree\",\n    \"major\": \"Electrical Engineering\",\n    \"school\": \"HCM University of Technology\",\n    \"start_year\": 1997,\n    \"graduation_year\": 2001\n  },\n  \"projects\": [\n    {\n      \"name\": \"Payment Gateway\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"TypeScript\",\n        \"NestJS\",\n        \"Redis\",\n        \"Docker\"\n      ],\n      \"period\": \"10/2025 – Now\"\n    },\n    {\n      \"name\": \"E-commerce Platform\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"TypeScript\",\n        \"NestJS\",\n        \"Redis\",\n        \"Docker\"\n      ],\n      \"period\": \"01/2024 – 09/2025\"\n    },\n    {\n      \"name\": \"Fintech App\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"TypeScript\",\n        \"NestJS\",\n        \"Redis\",\n        \"Docker\"\n      ],\n      \"period\": \"03/2022 – 12/2023\"\n    },\n    {\n      \"name\": \"IoT Monitoring System\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"TypeScript\",\n        \"NestJS\",\n        \"Redis\",\n        \"Docker\"\n      ],\n      \"period\": \"10/2020 – 02/2022\"\n    },\n    {\n      \"name\": \"Logistics Tracking Platform\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"TypeScript\",\n        \"NestJS\",\n        \"Redis\",\n        \"Docker\"\n      ],\n      \"period\": \"06/2019 – 09/2020\"\n    },\n    {\n      \"name\": \"CRM System\",\n      \"role\": \"Full-stack Developer\",\n      \"technologies\": [\n        \"TypeScript\",\n        \"NestJS\",\n        \"Redis\",\n        \"Docker\"\n      ],\n      \"period\": \"09/2018 – 05/2019\"\n    }\n  ]\n}",
+ "latency_s": 15.782374599992181,
+ "input_tokens": 3332,
+ "output_tokens": 806,
+ "errors": []
+}

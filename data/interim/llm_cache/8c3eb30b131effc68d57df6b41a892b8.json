@@ -1,0 +1,87 @@
+{
+ "extraction": {
+  "employee_code": 20526,
+  "full_name": "Phan Dung Bao",
+  "position": "Middle Data Analyst",
+  "current_project": "ERP Solution",
+  "primary_stack": "Data Analyst",
+  "total_experience_years": 5,
+  "business_domain": "Finance",
+  "skills": [
+   {
+    "name": "TypeScript",
+    "years": 5.0
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "NestJS"
+  ],
+  "databases": [
+   "Redis"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "Cambridge C1"
+   },
+   {
+    "language": "Chinese",
+    "level": "HSK 5"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Oracle Java SE 11 Developer",
+    "year": 2020
+   }
+  ],
+  "education": {
+   "degree_level": "PhD",
+   "major": "Computer Science",
+   "school": "University of Technology Education Ho Chi Minh City",
+   "start_year": 2015,
+   "graduation_year": 2019
+  },
+  "projects": [
+   {
+    "name": "ERP Solution",
+    "role": "Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "[07/2025 – Now]"
+   },
+   {
+    "name": "CRM System",
+    "role": "Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "[01/2022 – 06/2024]"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "[07/2021 – 12/2021]"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20526,\"full_name\":\"Phan Dung Bao\",\"position\":\"Middle Data Analyst\",\"current_project\":\"ERP Solution\",\"primary_stack\":\"Data Analyst\",\"total_experience_years\":5,\"business_domain\":\"Finance\",\"skills\":[{\"name\":\"TypeScript\",\"years\":5}],\"frameworks\":[\"Spring Framework\",\"NestJS\"],\"databases\":[\"Redis\"],\"languages\":[{\"language\":\"English\",\"level\":\"Cambridge C1\"},{\"language\":\"Chinese\",\"level\":\"HSK 5\"}],\"certificates\":[{\"name\":\"Oracle Java SE 11 Developer\",\"year\":2020}],\"education\":{\"degree_level\":\"PhD\",\"major\":\"Computer Science\",\"school\":\"University of Technology Education Ho Chi Minh City\",\"start_year\":2015,\"graduation_year\":2019},\"projects\":[{\"name\":\"ERP Solution\",\"role\":\"Developer\",\"technologies\":[\"TypeScript\",\"NestJS\",\"Redis\",\"Docker\"],\"period\":\"[07/2025 – Now]\"},{\"name\":\"CRM System\",\"role\":\"Developer\",\"technologies\":[\"TypeScript\",\"NestJS\",\"Redis\",\"Docker\"],\"period\":\"[01/2022 – 06/2024]\"},{\"name\":\"Learning Management System\",\"role\":\"Developer\",\"technologies\":[\"TypeScript\",\"NestJS\",\"Redis\",\"Docker\"],\"period\":\"[07/2021 – 12/2021]\"}]}",
+ "latency_s": 12.861436500010313,
+ "input_tokens": 572,
+ "output_tokens": 286,
+ "errors": []
+}

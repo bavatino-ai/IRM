@@ -1,0 +1,150 @@
+{
+ "extraction": {
+  "employee_code": 20451,
+  "full_name": "Bui Hai Duc",
+  "position": "Senior Backend Developer",
+  "current_project": "Mobile Banking App",
+  "primary_stack": "Backend Developer",
+  "total_experience_years": 11,
+  "business_domain": "Healthcare",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 3.0
+   },
+   {
+    "name": "Python",
+    "years": 4.0
+   },
+   {
+    "name": "TypeScript",
+    "years": 5.5
+   },
+   {
+    "name": "HTML",
+    "years": 6.5
+   },
+   {
+    "name": "CSS",
+    "years": 6.5
+   },
+   {
+    "name": ".NET",
+    "years": 3.0
+   },
+   {
+    "name": "React.js",
+    "years": 4.5
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "Vue.js",
+   "Django REST Framework",
+   "React Native",
+   "Blazor",
+   "Angular",
+   "Next.js",
+   ".NET Core",
+   "Spring Boot",
+   "Django"
+  ],
+  "databases": [
+   "SQL Server",
+   "Oracle",
+   "PostgreSQL",
+   "Redis"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "TOEFL 85"
+   },
+   {
+    "language": "Japanese",
+    "level": "JLPT N2"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Microsoft Azure Administrator AZ-104",
+    "year": 2014
+   }
+  ],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Cybersecurity",
+   "school": "Ho Chi Minh City University of Information Technology",
+   "start_year": 1985,
+   "graduation_year": 1989
+  },
+  "projects": [
+   {
+    "name": "Mobile Banking App",
+    "role": "Tech Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "07/2025 – Now"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Tech Lead",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "08/2023 – 06/2025"
+   },
+   {
+    "name": "IoT Monitoring System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Angular",
+     "Spring Boot",
+     "Oracle"
+    ],
+    "period": "11/2020 – 07/2023"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Tech Lead",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "09/2018 – 10/2020"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Tech Lead",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "05/2017 – 08/2018"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Tech Lead",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "06/2015 – 04/2017"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20451,\"full_name\":\"Bui Hai Duc\",\"position\":\"Senior Backend Developer\",\"current_project\":\"Mobile Banking App\",\"primary_stack\":\"Backend Developer\",\"total_experience_years\":11,\"business_domain\":\"Healthcare\",\"skills\":[{\"name\":\"C#\",\"years\":3},{\"name\":\"Python\",\"years\":4},{\"name\":\"TypeScript\",\"years\":5.5},{\"name\":\"HTML\",\"years\":6.5},{\"name\":\"CSS\",\"years\":6.5},{\"name\":\".NET\",\"years\":3},{\"name\":\"React.js\",\"years\":4.5}],\"frameworks\":[\"Spring Framework\",\"Vue.js\",\"Django REST Framework\",\"React Native\",\"Blazor\",\"Angular\",\"Next.js\",\".NET Core\",\"Spring Boot\",\"Django\"],\"databases\":[\"SQL Server\",\"Oracle\",\"PostgreSQL\",\"Redis\"],\"languages\":[{\"language\":\"English\",\"level\":\"TOEFL 85\"},{\"language\":\"Japanese\",\"level\":\"JLPT N2\"}],\"certificates\":[{\"name\":\"Microsoft Azure Administrator AZ-104\",\"year\":2014}],\"education\":{\"degree_level\":\"Bachelor's Degree\",\"major\":\"Cybersecurity\",\"school\":\"Ho Chi Minh City University of Information Technology\",\"start_year\":1985,\"graduation_year\":1989},\"projects\":[{\"name\":\"Mobile Banking App\",\"role\":\"Tech Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"07/2025 – Now\"},{\"name\":\"Fintech App\",\"role\":\"Tech Lead\",\"technologies\":[\"TypeScript\",\"NestJS\",\"Redis\",\"Docker\"],\"period\":\"08/2023 – 06/2025\"},{\"name\":\"IoT Monitoring System\",\"role\":\"Tech Lead\",\"technologies\":[\"Angular\",\"Spring Boot\",\"Oracle\"],\"period\":\"11/2020 – 07/2023\"},{\"name\":\"ERP Solution\",\"role\":\"Tech Lead\",\"technologies\":[\"Next.js\",\"Django\",\"PostgreSQL\"],\"period\":\"09/2018 – 10/2020\"},{\"name\":\"AI Chatbot\",\"role\":\"Tech Lead\",\"technologies\":[\"Next.js\",\"Django\",\"PostgreSQL\"],\"period\":\"05/2017 – 08/2018\"},{\"name\":\"Learning Management System\",\"role\":\"Tech Lead\",\"technologies\":[\"Next.js\",\"Django\",\"PostgreSQL\"],\"period\":\"06/2015 – 04/2017\"}]}",
+ "latency_s": 14.330610700009856,
+ "input_tokens": 830,
+ "output_tokens": 513,
+ "errors": []
+}

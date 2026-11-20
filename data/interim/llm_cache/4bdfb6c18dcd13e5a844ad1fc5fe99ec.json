@@ -1,0 +1,146 @@
+{
+ "extraction": {
+  "employee_code": 20542,
+  "full_name": "Huynh Van Dung",
+  "position": "Senior Software Engineer",
+  "current_project": "AI Chatbot",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 9,
+  "business_domain": "Education",
+  "skills": [
+   {
+    "name": "TypeScript",
+    "years": 7.0
+   },
+   {
+    "name": "Golang",
+    "years": 2.0
+   },
+   {
+    "name": "HTML",
+    "years": 5.5
+   },
+   {
+    "name": "CSS",
+    "years": 5.5
+   },
+   {
+    "name": "React.js",
+    "years": 5.0
+   },
+   {
+    "name": "Vue.js",
+    "years": 5.0
+   },
+   {
+    "name": "React Native",
+    "years": 5.0
+   },
+   {
+    "name": "Spring Framework",
+    "years": 5.0
+   }
+  ],
+  "frameworks": [
+   "React",
+   "Svelte",
+   "NestJS",
+   "Go"
+  ],
+  "databases": [
+   "TimescaleDB",
+   "Redis"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 8.0"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 3"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "CISSP",
+    "year": 2019
+   }
+  ],
+  "education": {
+   "degree_level": "Master's Degree",
+   "major": "Computer Science",
+   "school": "Ton Duc Thang University",
+   "start_year": 2011,
+   "graduation_year": 2013
+  },
+  "projects": [
+   {
+    "name": "AI Chatbot",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "02/2025 – Now"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "03/2023 – 01/2025"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "TypeScript",
+     "NestJS",
+     "Redis",
+     "Docker"
+    ],
+    "period": "01/2022 – 02/2023"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "02/2021 – 12/2021"
+   },
+   {
+    "name": "Healthcare System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "GraphQL",
+     "Prisma"
+    ],
+    "period": "01/2020 – 01/2021"
+   },
+   {
+    "name": "CRM System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "11/2017 – 12/2019"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20542,\"full_name\":\"Huynh Van Dung\",\"position\":\"Senior Software Engineer\",\"current_project\":\"AI Chatbot\",\"primary_stack\":\"Software Engineer\",\"total_experience_years\":9,\"business_domain\":\"Education\",\"skills\":[{\"name\":\"TypeScript\",\"years\":7},{\"name\":\"Golang\",\"years\":2},{\"name\":\"HTML\",\"years\":5.5},{\"name\":\"CSS\",\"years\":5.5},{\"name\":\"React.js\",\"years\":5},{\"name\":\"Vue.js\",\"years\":5},{\"name\":\"React Native\",\"years\":5},{\"name\":\"Spring Framework\",\"years\":5}],\"frameworks\":[\"React\",\"Svelte\",\"NestJS\",\"Go\"],\"databases\":[\"TimescaleDB\",\"Redis\"],\"languages\":[{\"language\":\"English\",\"level\":\"IELTS 8.0\"},{\"language\":\"Korean\",\"level\":\"TOPIK Level 3\"}],\"certificates\":[{\"name\":\"CISSP\",\"year\":2019}],\"education\":{\"degree_level\":\"Master's Degree\",\"major\":\"Computer Science\",\"school\":\"Ton Duc Thang University\",\"start_year\":2011,\"graduation_year\":2013},\"projects\":[{\"name\":\"AI Chatbot\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"02/2025 – Now\"},{\"name\":\"Learning Management System\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"03/2023 – 01/2025\"},{\"name\":\"ERP Solution\",\"role\":\"Full-stack Developer\",\"technologies\":[\"TypeScript\",\"NestJS\",\"Redis\",\"Docker\"],\"period\":\"01/2022 – 02/2023\"},{\"name\":\"E-commerce Platform\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"02/2021 – 12/2021\"},{\"name\":\"Healthcare System\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"GraphQL\",\"Prisma\"],\"period\":\"01/2020 – 01/2021\"},{\"name\":\"CRM System\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Svelte\",\"Go\",\"TimescaleDB\"],\"period\":\"11/2017 – 12/2019\"}]}",
+ "latency_s": 19.344295799994143,
+ "input_tokens": 830,
+ "output_tokens": 490,
+ "errors": []
+}

@@ -1,0 +1,90 @@
+{
+ "extraction": {
+  "employee_code": 20345,
+  "full_name": "Do Duy Thanh",
+  "position": "Junior Software Engineer",
+  "current_project": "Real-time Dashboard",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 2,
+  "business_domain": "Healthcare",
+  "skills": [
+   {
+    "name": "Python",
+    "years": 2.5
+   },
+   {
+    "name": "TypeScript",
+    "years": 2.5
+   },
+   {
+    "name": "HTML",
+    "years": 2.5
+   },
+   {
+    "name": "CSS",
+    "years": 2.5
+   },
+   {
+    "name": "React.js",
+    "years": 2.5
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "Bootstrap",
+   "Flutter",
+   "Next.js",
+   "Django"
+  ],
+  "databases": [
+   "MongoDB",
+   "PostgreSQL",
+   "Firebase"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "Cambridge C1"
+   },
+   {
+    "language": "Chinese",
+    "level": "HSK 5"
+   }
+  ],
+  "certificates": [],
+  "education": {
+   "degree_level": "Bachelor's Degree",
+   "major": "Software Engineering",
+   "school": "Ton Duc Thang University",
+   "start_year": 2017,
+   "graduation_year": 2021
+  },
+  "projects": [
+   {
+    "name": "Real-time Dashboard",
+    "role": "Developer",
+    "technologies": [
+     "Flutter",
+     "Firebase",
+     "MongoDB"
+    ],
+    "period": "06/2025 – Now"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Developer",
+    "technologies": [
+     "Next.js",
+     "Django",
+     "PostgreSQL"
+    ],
+    "period": "05/2024 – 05/2025"
+   }
+  ]
+ },
+ "raw_text": "{\n  \"employee_code\": 20345,\n  \"full_name\": \"Do Duy Thanh\",\n  \"position\": \"Junior Software Engineer\",\n  \"current_project\": \"Real-time Dashboard\",\n  \"primary_stack\": \"Software Engineer\",\n  \"total_experience_years\": 2,\n  \"business_domain\": \"Healthcare\",\n  \"skills\": [\n    {\n      \"name\": \"Python\",\n      \"years\": 2.5\n    },\n    {\n      \"name\": \"TypeScript\",\n      \"years\": 2.5\n    },\n    {\n      \"name\": \"HTML\",\n      \"years\": 2.5\n    },\n    {\n      \"name\": \"CSS\",\n      \"years\": 2.5\n    },\n    {\n      \"name\": \"React.js\",\n      \"years\": 2.5\n    }\n  ],\n  \"frameworks\": [\n    \"Spring Framework\",\n    \"Bootstrap\",\n    \"Flutter\",\n    \"Next.js\",\n    \"Django\"\n  ],\n  \"databases\": [\n    \"MongoDB\",\n    \"PostgreSQL\",\n    \"Firebase\"\n  ],\n  \"languages\": [\n    {\n      \"language\": \"English\",\n      \"level\": \"Cambridge C1\"\n    },\n    {\n      \"language\": \"Chinese\",\n      \"level\": \"HSK 5\"\n    }\n  ],\n  \"certificates\": [],\n  \"education\": {\n    \"degree_level\": \"Bachelor's Degree\",\n    \"major\": \"Software Engineering\",\n    \"school\": \"Ton Duc Thang University\",\n    \"start_year\": 2017,\n    \"graduation_year\": 2021\n  },\n  \"projects\": [\n    {\n      \"name\": \"Real-time Dashboard\",\n      \"role\": \"Developer\",\n      \"technologies\": [\n        \"Flutter\",\n        \"Firebase\",\n        \"MongoDB\"\n      ],\n      \"period\": \"06/2025 – Now\"\n    },\n    {\n      \"name\": \"Fintech App\",\n      \"role\": \"Developer\",\n      \"technologies\": [\n        \"Next.js\",\n        \"Django\",\n        \"PostgreSQL\"\n      ],\n      \"period\": \"05/2024 – 05/2025\"\n    }\n  ]\n}",
+ "latency_s": 11.171106299996609,
+ "input_tokens": 2240,
+ "output_tokens": 556,
+ "errors": []
+}

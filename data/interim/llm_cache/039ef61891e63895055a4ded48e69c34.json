@@ -1,0 +1,175 @@
+{
+ "extraction": {
+  "employee_code": 20836,
+  "full_name": "Doan Bich Tien",
+  "position": "Senior QA Engineer",
+  "current_project": "IoT Monitoring System",
+  "primary_stack": "QA Engineer",
+  "total_experience_years": 15,
+  "business_domain": "Education",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 6.5
+   },
+   {
+    "name": "Python",
+    "years": 3.0
+   },
+   {
+    "name": "TypeScript",
+    "years": 4.5
+   },
+   {
+    "name": "PHP",
+    "years": 2.0
+   },
+   {
+    "name": "HTML",
+    "years": 11.0
+   },
+   {
+    "name": "CSS",
+    "years": 11.0
+   },
+   {
+    "name": ".NET",
+    "years": 6.5
+   }
+  ],
+  "frameworks": [
+   "Spring Framework",
+   "Bootstrap",
+   ".NET Core",
+   "Vue.js",
+   "Blazor",
+   "Angular",
+   "Nuxt",
+   "Laravel",
+   "Spring Boot",
+   "FastAPI"
+  ],
+  "databases": [
+   "SQL Server",
+   "MySQL",
+   "Oracle",
+   "MariaDB"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "IELTS 7.0"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "Oracle Java SE 11 Developer",
+    "year": 2017
+   }
+  ],
+  "education": {
+   "degree_level": "PhD",
+   "major": "Information Technology",
+   "school": "HCM University of Technology",
+   "start_year": 2005,
+   "graduation_year": 2009
+  },
+  "projects": [
+   {
+    "name": "IoT Monitoring System",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "01/2025 – Now"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Team Lead",
+    "technologies": [
+     "Vue.js",
+     "Laravel",
+     "MySQL"
+    ],
+    "period": "07/2023 – 12/2024"
+   },
+   {
+    "name": "Logistics Tracking Platform",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "12/2021 – 06/2023"
+   },
+   {
+    "name": "Real-time Dashboard",
+    "role": "Team Lead",
+    "technologies": [
+     "Angular",
+     "Spring Boot",
+     "Oracle"
+    ],
+    "period": "07/2019 – 11/2021"
+   },
+   {
+    "name": "ERP Solution",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "03/2018 – 06/2019"
+   },
+   {
+    "name": "Healthcare System",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "12/2016 – 02/2018"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "08/2015 – 11/2016"
+   },
+   {
+    "name": "Payment Gateway",
+    "role": "Team Lead",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "04/2013 – 07/2015"
+   },
+   {
+    "name": "E-commerce Platform",
+    "role": "Team Lead",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "05/2011 – 03/2013"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20836,\"full_name\":\"Doan Bich Tien\",\"position\":\"Senior QA Engineer\",\"current_project\":\"IoT Monitoring System\",\"primary_stack\":\"QA Engineer\",\"total_experience_years\":15,\"business_domain\":\"Education\",\"skills\":[{\"name\":\"C#\",\"years\":6.5},{\"name\":\"Python\",\"years\":3},{\"name\":\"TypeScript\",\"years\":4.5},{\"name\":\"PHP\",\"years\":2},{\"name\":\"HTML\",\"years\":11},{\"name\":\"CSS\",\"years\":11},{\"name\":\".NET\",\"years\":6.5}],\"frameworks\":[\"Spring Framework\",\"Bootstrap\",\".NET Core\",\"Vue.js\",\"Blazor\",\"Angular\",\"Nuxt\",\"Laravel\",\"Spring Boot\",\"FastAPI\"],\"databases\":[\"SQL Server\",\"MySQL\",\"Oracle\",\"MariaDB\"],\"languages\":[{\"language\":\"English\",\"level\":\"IELTS 7.0\"}],\"certificates\":[{\"name\":\"Oracle Java SE 11 Developer\",\"year\":2017}],\"education\":{\"degree_level\":\"PhD\",\"major\":\"Information Technology\",\"school\":\"HCM University of Technology\",\"start_year\":2005,\"graduation_year\":2009},\"projects\":[{\"name\":\"IoT Monitoring System\",\"role\":\"Team Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"01/2025 – Now\"},{\"name\":\"Fintech App\",\"role\":\"Team Lead\",\"technologies\":[\"Vue.js\",\"Laravel\",\"MySQL\"],\"period\":\"07/2023 – 12/2024\"},{\"name\":\"Logistics Tracking Platform\",\"role\":\"Team Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"12/2021 – 06/2023\"},{\"name\":\"Real-time Dashboard\",\"role\":\"Team Lead\",\"technologies\":[\"Angular\",\"Spring Boot\",\"Oracle\"],\"period\":\"07/2019 – 11/2021\"},{\"name\":\"ERP Solution\",\"role\":\"Team Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"03/2018 – 06/2019\"},{\"name\":\"Healthcare System\",\"role\":\"Team Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"12/2016 – 02/2018\"},{\"name\":\"AI Chatbot\",\"role\":\"Team Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"08/2015 – 11/2016\"},{\"name\":\"Payment Gateway\",\"role\":\"Team Lead\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"04/2013 – 07/2015\"},{\"name\":\"E-commerce Platform\",\"role\":\"Team Lead\",\"technologies\":[\"Nuxt\",\"FastAPI\",\"MariaDB\"],\"period\":\"05/2011 – 03/2013\"}]}",
+ "latency_s": 14.739281499991193,
+ "input_tokens": 1088,
+ "output_tokens": 620,
+ "errors": []
+}

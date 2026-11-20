@@ -2,7 +2,7 @@
 
 The answer model sees only the top-k resume chunks (never the sensitive or
 restricted fields, which are not in the index) and must cite chunk ids.
-Providers: `claude` (default model CLAUDE_ANSWER_MODEL) or `gemini` (GEMINI_ANSWER_MODEL).
+Providers: `gemini` (default; GEMINI_ANSWER_MODEL) or `claude` (CLAUDE_ANSWER_MODEL, swapped-role experiment only).
 """
 from __future__ import annotations
 
@@ -80,7 +80,7 @@ def _gemini(model: str, user: str):
             int(getattr(um, "candidates_token_count", 0) or 0), "")
 
 
-def answer(retriever, query: str, provider: str = "claude", model: str | None = None, k: int = 8,
+def answer(retriever, query: str, provider: str = "gemini", model: str | None = None, k: int = 8,
            cache: JsonCache | None = None) -> Answer:
     model = model or (config.CLAUDE_ANSWER_MODEL if provider == "claude" else config.GEMINI_ANSWER_MODEL)
     ids, codes, context = retrieve(retriever, query, k)

@@ -11,6 +11,10 @@ Week 1
 Week 2
   python run.py eda | scans | build-db | index --embedder lsa|gemini|bge | eval-set | retrieval-check
   python run.py week1 | week2                      # offline steps of each week, end to end
+Baseline interaction (Version 1)
+  python run.py ask "Who has 5+ years of Golang?"  # hybrid retrieval -> cited answer (Gemini);
+                                                   # without GEMINI_API_KEY it shows the retrieved context only
+  python run.py answer-eval                        # Gemini answers, Claude judges (needs both keys)
 """
 from __future__ import annotations
 
@@ -196,6 +200,33 @@ def cmd_answer_eval(a):
     _print(s)
 
 
+def cmd_ask(a):
+    """Baseline RAG interaction: hybrid retrieval over the resume chunks, then a cited answer.
+
+    Runs offline in retrieval-only mode when the answer provider has no API key (or with
+    --retrieve-only), so the evaluator can see the context the answer model would receive.
+    """
+    from irm.answering import ANSWER_SYSTEM, answer, retrieve
+    from irm.llm.cache import JsonCache
+    from irm.retrieval.embeddings import get_embedder
+    from irm.retrieval.index import BM25Index, HybridRetriever, open_chroma
+    r = HybridRetriever(open_chroma(a.embedder), get_embedder(a.embedder), BM25Index.load())
+    key = config.GEMINI_API_KEY if a.provider == "gemini" else config.ANTHROPIC_API_KEY
+    if a.retrieve_only or not key:
+        ids, codes, context = retrieve(r, a.question, a.k)
+        if not a.retrieve_only:
+            print(f"[info] no API key for provider '{a.provider}' -> retrieval-only mode "
+                  f"(add the key to .env to generate the answer)\n")
+        print(f"QUESTION: {a.question}\nEMPLOYEES RETRIEVED (codes): {codes}\n")
+        print("=" * 30, "SYSTEM PROMPT", "=" * 30, f"\n{ANSWER_SYSTEM}\n")
+        print("=" * 30, f"CONTEXT (top-{a.k} hybrid chunks)", "=" * 30, f"\n{context}")
+        return
+    ans = answer(r, a.question, provider=a.provider, model=a.model, k=a.k, cache=JsonCache())
+    print(f"QUESTION: {a.question}\n\n{ans.text}\n")
+    print(f"[{ans.provider}:{ans.model}] chunks={ans.chunk_ids} latency={ans.latency_s:.1f}s "
+          f"tokens={ans.input_tokens}/{ans.output_tokens} cached={ans.cached}")
+
+
 def cmd_week1(a):
     for f in (cmd_sample, cmd_baseline, cmd_rules_baseline):
         f(a)
@@ -223,13 +254,20 @@ def main():
     sp = sub.add_parser("compare-tiers"); sp.add_argument("--prompt", default="v1"); sp.add_argument("--set", default="sample")
     sp = sub.add_parser("before-after"); sp.add_argument("--model", default=config.GEMINI_OCR_MODEL); sp.add_argument("--set", default="sample")
     sp = sub.add_parser("answer-eval", help="answer the eval queries and score them with a judge model")
-    sp.add_argument("--answer-provider", default="claude", choices=["claude", "gemini"])
+    sp.add_argument("--answer-provider", default="gemini", choices=["gemini", "claude"])
     sp.add_argument("--answer-model", default=None)
-    sp.add_argument("--judge-provider", default="gemini", choices=["gemini", "claude"])
+    sp.add_argument("--judge-provider", default="claude", choices=["claude", "gemini"])
     sp.add_argument("--judge-model", default=None)
     sp.add_argument("--embedder", default="lsa", choices=["lsa", "gemini", "bge"])
     sp.add_argument("--per-category", type=int, default=2, help="queries per category (0 = all 79)")
     sp.add_argument("--k", type=int, default=8, help="chunks given to the answer model")
+    sp = sub.add_parser("ask", help="ask a staffing question (hybrid retrieval -> cited answer)")
+    sp.add_argument("question")
+    sp.add_argument("--provider", default="gemini", choices=["gemini", "claude"])
+    sp.add_argument("--model", default=None, help="default: GEMINI_ANSWER_MODEL / CLAUDE_ANSWER_MODEL")
+    sp.add_argument("--k", type=int, default=8, help="chunks given to the answer model")
+    sp.add_argument("--embedder", default="lsa", choices=["lsa", "gemini", "bge"])
+    sp.add_argument("--retrieve-only", action="store_true", help="show the retrieved context, no LLM call")
     for name in ["index", "retrieval-check"]:
         sp = sub.add_parser(name); sp.add_argument("--embedder", default="lsa", choices=["lsa", "gemini", "bge"])
     a = p.parse_args()

@@ -1,0 +1,150 @@
+{
+ "extraction": {
+  "employee_code": 20598,
+  "full_name": "Pham Tuyet Loan",
+  "position": "Senior Backend Developer",
+  "current_project": "ERP Solution",
+  "primary_stack": "Backend Developer",
+  "total_experience_years": 14,
+  "business_domain": "Technology",
+  "skills": [
+   {
+    "name": "C#",
+    "years": 5.5
+   },
+   {
+    "name": "Golang",
+    "years": 4.0
+   },
+   {
+    "name": "HTML",
+    "years": 8.5
+   },
+   {
+    "name": "CSS",
+    "years": 8.5
+   },
+   {
+    "name": ".NET",
+    "years": 5.5
+   }
+  ],
+  "frameworks": [
+   "Bootstrap",
+   "Vue.js",
+   "Blazor",
+   "Svelte",
+   ".NET Core",
+   "Windows",
+   "Linux",
+   "RESTful APIs",
+   "HTTP/HTTPS",
+   "Git",
+   "VS Code"
+  ],
+  "databases": [
+   "SQL Server",
+   "TimescaleDB"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "Cambridge B2"
+   },
+   {
+    "language": "Korean",
+    "level": "TOPIK Level 4"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "AWS Certified Solutions Architect",
+    "year": 2007
+   }
+  ],
+  "education": {
+   "degree_level": "PhD",
+   "major": "Artificial Intelligence",
+   "school": "Vietnam National University HCMC",
+   "start_year": 2000,
+   "graduation_year": 2004
+  },
+  "projects": [
+   {
+    "name": "ERP Solution",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "09/2023 – Now"
+   },
+   {
+    "name": "Payment Gateway",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "08/2022 – 08/2024"
+   },
+   {
+    "name": "IoT Monitoring System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "07/2020 – 07/2022"
+   },
+   {
+    "name": "Mobile Banking App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "04/2018 – 06/2020"
+   },
+   {
+    "name": "Healthcare System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "04/2016 – 03/2018"
+   },
+   {
+    "name": "Fintech App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Blazor",
+     ".NET Core",
+     "SQL Server"
+    ],
+    "period": "11/2014 – 03/2016"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Svelte",
+     "Go",
+     "TimescaleDB"
+    ],
+    "period": "06/2012 – 10/2014"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20598,\"full_name\":\"Pham Tuyet Loan\",\"position\":\"Senior Backend Developer\",\"current_project\":\"ERP Solution\",\"primary_stack\":\"Backend Developer\",\"total_experience_years\":14,\"business_domain\":\"Technology\",\"skills\":[{\"name\":\"C#\",\"years\":5.5},{\"name\":\"Golang\",\"years\":4},{\"name\":\"HTML\",\"years\":8.5},{\"name\":\"CSS\",\"years\":8.5},{\"name\":\".NET\",\"years\":5.5}],\"frameworks\":[\"Bootstrap\",\"Vue.js\",\"Blazor\",\"Svelte\",\".NET Core\",\"Windows\",\"Linux\",\"RESTful APIs\",\"HTTP/HTTPS\",\"Git\",\"VS Code\"],\"databases\":[\"SQL Server\",\"TimescaleDB\"],\"languages\":[{\"language\":\"English\",\"level\":\"Cambridge B2\"},{\"language\":\"Korean\",\"level\":\"TOPIK Level 4\"}],\"certificates\":[{\"name\":\"AWS Certified Solutions Architect\",\"year\":2007}],\"education\":{\"degree_level\":\"PhD\",\"major\":\"Artificial Intelligence\",\"school\":\"Vietnam National University HCMC\",\"start_year\":2000,\"graduation_year\":2004},\"projects\":[{\"name\":\"ERP Solution\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"09/2023 – Now\"},{\"name\":\"Payment Gateway\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"08/2022 – 08/2024\"},{\"name\":\"IoT Monitoring System\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"07/2020 – 07/2022\"},{\"name\":\"Mobile Banking App\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Svelte\",\"Go\",\"TimescaleDB\"],\"period\":\"04/2018 – 06/2020\"},{\"name\":\"Healthcare System\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"04/2016 – 03/2018\"},{\"name\":\"Fintech App\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Blazor\",\".NET Core\",\"SQL Server\"],\"period\":\"11/2014 – 03/2016\"},{\"name\":\"AI Chatbot\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Svelte\",\"Go\",\"TimescaleDB\"],\"period\":\"06/2012 – 10/2014\"}]}",
+ "latency_s": 15.186898900021333,
+ "input_tokens": 830,
+ "output_tokens": 542,
+ "errors": []
+}

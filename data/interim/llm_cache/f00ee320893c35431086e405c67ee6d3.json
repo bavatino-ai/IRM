@@ -1,0 +1,147 @@
+{
+ "extraction": {
+  "employee_code": 20295,
+  "full_name": "Le Tuyet Linh",
+  "position": "Senior Software Engineer",
+  "current_project": "Fintech App",
+  "primary_stack": "Software Engineer",
+  "total_experience_years": 11,
+  "business_domain": "Education",
+  "skills": [
+   {
+    "name": "Python",
+    "years": 3.5
+   },
+   {
+    "name": "TypeScript",
+    "years": 3.0
+   },
+   {
+    "name": "HTML",
+    "years": 9.0
+   },
+   {
+    "name": "CSS",
+    "years": 9.0
+   },
+   {
+    "name": "React.js",
+    "years": 7.5
+   }
+  ],
+  "frameworks": [
+   "Vue.js",
+   "Spring Framework",
+   "React Native",
+   "FastAPI",
+   "Bootstrap",
+   "React",
+   "Nuxt",
+   "Node.js"
+  ],
+  "databases": [
+   "PostgreSQL",
+   "MariaDB"
+  ],
+  "languages": [
+   {
+    "language": "English",
+    "level": "Cambridge C1"
+   },
+   {
+    "language": "Chinese",
+    "level": "HSK 5"
+   }
+  ],
+  "certificates": [
+   {
+    "name": "CISSP",
+    "year": 2023
+   }
+  ],
+  "education": {
+   "degree_level": "Master's Degree",
+   "major": "Computer Science",
+   "school": "HCM University of Technology",
+   "start_year": 2011,
+   "graduation_year": 2013
+  },
+  "projects": [
+   {
+    "name": "Fintech App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "02/2024 – Now"
+   },
+   {
+    "name": "Real-time Dashboard",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "02/2024 – 09/2025"
+   },
+   {
+    "name": "Mobile Banking App",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "03/2022 – 01/2024"
+   },
+   {
+    "name": "CRM System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "09/2020 – 02/2022"
+   },
+   {
+    "name": "AI Chatbot",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "Nuxt",
+     "FastAPI",
+     "MariaDB"
+    ],
+    "period": "02/2019 – 08/2020"
+   },
+   {
+    "name": "Logistics Tracking Platform",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "04/2017 – 01/2019"
+   },
+   {
+    "name": "Learning Management System",
+    "role": "Full-stack Developer",
+    "technologies": [
+     "React",
+     "Node.js",
+     "PostgreSQL"
+    ],
+    "period": "12/2015 – 03/2017"
+   }
+  ]
+ },
+ "raw_text": "{\"employee_code\":20295,\"full_name\":\"Le Tuyet Linh\",\"position\":\"Senior Software Engineer\",\"current_project\":\"Fintech App\",\"primary_stack\":\"Software Engineer\",\"total_experience_years\":11,\"business_domain\":\"Education\",\"skills\":[{\"name\":\"Python\",\"years\":3.5},{\"name\":\"TypeScript\",\"years\":3},{\"name\":\"HTML\",\"years\":9},{\"name\":\"CSS\",\"years\":9},{\"name\":\"React.js\",\"years\":7.5}],\"frameworks\":[\"Vue.js\",\"Spring Framework\",\"React Native\",\"FastAPI\",\"Bootstrap\",\"React\",\"Nuxt\",\"Node.js\"],\"databases\":[\"PostgreSQL\",\"MariaDB\"],\"languages\":[{\"language\":\"English\",\"level\":\"Cambridge C1\"},{\"language\":\"Chinese\",\"level\":\"HSK 5\"}],\"certificates\":[{\"name\":\"CISSP\",\"year\":2023}],\"education\":{\"degree_level\":\"Master's Degree\",\"major\":\"Computer Science\",\"school\":\"HCM University of Technology\",\"start_year\":2011,\"graduation_year\":2013},\"projects\":[{\"name\":\"Fintech App\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"Node.js\",\"PostgreSQL\"],\"period\":\"02/2024 – Now\"},{\"name\":\"Real-time Dashboard\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"Node.js\",\"PostgreSQL\"],\"period\":\"02/2024 – 09/2025\"},{\"name\":\"Mobile Banking App\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"Node.js\",\"PostgreSQL\"],\"period\":\"03/2022 – 01/2024\"},{\"name\":\"CRM System\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"Node.js\",\"PostgreSQL\"],\"period\":\"09/2020 – 02/2022\"},{\"name\":\"AI Chatbot\",\"role\":\"Full-stack Developer\",\"technologies\":[\"Nuxt\",\"FastAPI\",\"MariaDB\"],\"period\":\"02/2019 – 08/2020\"},{\"name\":\"Logistics Tracking Platform\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"Node.js\",\"PostgreSQL\"],\"period\":\"04/2017 – 01/2019\"},{\"name\":\"Learning Management System\",\"role\":\"Full-stack Developer\",\"technologies\":[\"React\",\"Node.js\",\"PostgreSQL\"],\"period\":\"12/2015 – 03/2017\"}]}",
+ "latency_s": 11.744701100018574,
+ "input_tokens": 830,
+ "output_tokens": 525,
+ "errors": []
+}
