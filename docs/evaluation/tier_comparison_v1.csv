@@ -1,0 +1,4 @@
+model,prompt,micro_f1,precision,recall,parsed_ok,match_accuracy,mean_latency_s,input_tokens,output_tokens,cost_usd,err_unexpected_extra,err_missing,err_invented
+gemini-3.5-flash-lite,v1,0.999,0.9979,1.0,20,1.0,7.915,66640,17547,,1.0,,
+gemini-2.5-flash,v1,0.9889,0.9824,0.9955,18,1.0,13.874,15198,9121,,7.0,2.0,1.0
+gemini-3.1-pro-preview,v1,0.0,0.0,0.0,0,0.0,0.0,0,0,,,,

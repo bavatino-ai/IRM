@@ -1,0 +1,11 @@
+{
+  "resumes": 281,
+  "field_slots_total": 6925,
+  "field_slots_mean": 24.6,
+  "field_slots_min": 14,
+  "field_slots_max": 31,
+  "skill_changes_total": 1331,
+  "skill_changes_mean": 4.74,
+  "resumes_with_changes": 262,
+  "skills_capped_total": 107
+}

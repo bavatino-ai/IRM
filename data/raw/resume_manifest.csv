@@ -1,0 +1,282 @@
+C#_base,Python_base,TypeScript_base,Golang_base,PHP_base,HTML_base,CSS_base,.NET_base,React.js_base,C#_resume,Python_resume,TypeScript_resume,Golang_resume,PHP_resume,HTML_resume,CSS_resume,.NET_resume,React.js_resume,SkillsCapped,Code,Fullname,File,Position,CurrentProject,ProjectsInSource,ProjectsRendered,Title,CompanyTenure_months,AtCompany_months
+0.0,0.0,0.0,1.0,3.5,4.5,4.5,0.0,0.0,0.0,0.0,0.0,2.5,5.0,6.0,6.0,0.0,0.0,0,20003,Ta Long Binh,20003-Ta_Long_Binh.pdf,Senior Backend Developer,Logistics Tracking Platform,5,5,Senior,101,94
+0.0,7.5,8.5,0.0,0.0,8.5,8.5,0.0,4.0,0.0,9.0,10.0,0.0,0.0,10.5,10.5,0.0,5.5,0,20004,Le Kien Minh,20004-Le_Kien_Minh.pdf,Solution Architect,Real-time Dashboard,8,8,Architect,227,20
+0.0,0.0,4.0,0.0,0.0,4.0,4.0,0.0,2.0,0.0,0.0,5.5,0.0,0.0,5.5,5.5,0.0,3.5,0,20006,Ly My Khanh,20006-Ly_My_Khanh.pdf,Middle Software Engineer,Healthcare System,4,4,Mid-level,76,22
+0.0,1.0,1.0,1.5,0.0,3.0,3.0,0.0,0.0,0.0,2.5,2.0,3.5,0.0,4.0,4.0,0.0,0.0,0,20010,Vo Hai Anh,20010-Vo_Hai_Anh.pdf,Middle QA Engineer,IoT Monitoring System,3,3,Mid-level,49,39
+4.5,0.5,2.5,0.0,1.0,9.0,9.0,4.5,3.5,6.5,1.5,3.5,0.0,2.5,10.0,10.0,6.5,5.5,0,20011,Ly Thanh Hai,20011-Ly_Thanh_Hai.pdf,Software Architect,Healthcare System,9,9,Architect,200,159
+0.5,0.0,1.0,0.0,1.5,7.5,7.5,0.5,5.5,1.5,0.0,2.5,0.0,2.5,8.5,8.5,1.5,7.5,0,20024,Tran Thanh Tien,20024-Tran_Thanh_Tien.pdf,Senior Software Engineer,Healthcare System,9,9,Senior,188,185
+0.0,0.0,6.0,1.5,0.0,8.0,8.0,0.0,0.5,0.0,0.0,8.0,3.5,0.0,9.0,9.0,0.0,2.5,0,20026,Dinh Nam Duc,20026-Dinh_Nam_Duc.pdf,Software Architect,E-commerce Platform,8,8,Architect,223,126
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,20030,Ho Thuy Yen,20030-Ho_Thuy_Yen.pdf,Junior Data Scientist,ERP Solution,3,3,Junior,18,13
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,20031,Nguyen Yen Diem,20031-Nguyen_Yen_Diem.pdf,Data & AI Architect,Mobile Banking App,7,7,Architect,217,141
+0.0,5.5,5.5,0.0,0.5,6.0,6.0,0.0,0.0,0.0,6.5,6.5,0.0,2.0,7.5,7.5,0.0,0.0,0,20032,Huynh Yen Truc,20032-Huynh_Yen_Truc.pdf,Senior QA Engineer,ERP Solution,7,7,Senior,175,20
+0.0,0.5,5.5,0.0,0.0,5.5,5.5,0.0,0.0,0.0,1.5,7.0,0.0,0.0,6.5,6.5,0.0,0.0,0,20034,Mai Huu Khoa,20034-Mai_Huu_Khoa.pdf,Senior Backend Developer,Learning Management System,7,7,Senior,92,36
+0.0,1.5,1.5,3.5,1.5,6.0,6.0,0.0,1.5,0.0,2.5,2.5,4.5,2.5,8.0,8.0,0.0,3.0,0,20040,Duong Huu Nam,20040-Duong_Huu_Nam.pdf,Senior Software Engineer,ERP Solution,6,6,Senior,113,57
+0.0,2.0,5.0,2.0,0.0,3.5,3.5,0.0,2.0,0.0,4.0,6.5,4.0,0.0,4.5,4.5,0.0,3.0,0,20045,Bui My Thao,20045-Bui_My_Thao.pdf,Senior DevOps Engineer,E-commerce Platform,7,7,Senior,138,115
+4.0,0.0,1.0,0.0,0.0,5.0,5.0,4.0,1.0,5.5,0.0,3.0,0.0,0.0,6.5,6.5,5.5,2.0,0,20050,Lam Trang Ai,20050-Lam_Trang_Ai.pdf,Senior Software Engineer,Logistics Tracking Platform,5,5,Senior,105,57
+0.0,0.0,1.5,0.0,4.5,6.0,6.0,0.0,0.0,0.0,0.0,2.5,0.0,5.5,7.0,7.0,0.0,0.0,0,20055,Huynh Lien Tien,20055-Huynh_Lien_Tien.pdf,Senior Backend Developer,AI Chatbot,5,5,Senior,123,117
+0.0,0.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,1,20056,Trinh Quang Dat,20056-Trinh_Quang_Dat.pdf,Senior Software Engineer,Healthcare System,6,6,Senior,86,40
+0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1,20060,Vu Bich Tien,20060-Vu_Bich_Tien.pdf,Middle Software Engineer,CRM System,5,5,Mid-level,41,38
+0.0,0.0,9.5,0.0,0.0,9.5,9.5,0.0,1.5,0.0,0.0,11.0,0.0,0.0,10.5,10.5,0.0,3.0,0,20061,Phan Thu My,20061-Phan_Thu_My.pdf,Senior Software Engineer,AI Chatbot,9,9,Senior,149,110
+1.0,0.0,2.5,0.5,0.0,3.5,3.5,1.0,0.0,2.5,0.0,4.0,2.0,0.0,4.0,4.0,2.5,0.0,1,20064,Do Huu Duc,20064-Do_Huu_Duc.pdf,Middle Backend Developer,AI Chatbot,5,5,Mid-level,53,21
+1.5,4.0,4.0,0.0,0.0,5.5,5.5,1.5,3.0,2.5,5.0,5.5,0.0,0.0,7.5,7.5,2.5,5.0,0,20066,To Bao Long,20066-To_Bao_Long.pdf,Senior Software Engineer,Logistics Tracking Platform,5,5,Senior,106,53
+0.0,1.0,5.0,0.0,0.0,5.0,5.0,0.0,1.0,0.0,2.0,6.0,0.0,0.0,6.5,6.5,0.0,2.0,0,20067,Pham Van Tuan,20067-Pham_Van_Tuan.pdf,Senior Software Engineer,AI Chatbot,7,7,Senior,86,43
+0.0,7.5,7.5,1.5,0.0,9.0,9.0,0.0,7.0,0.0,9.5,9.0,3.0,0.0,11.0,11.0,0.0,8.0,0,20068,Ta Bich Linh,20068-Ta_Bich_Linh.pdf,Backend Architect,Healthcare System,8,8,Architect,217,47
+0.0,0.0,1.0,0.0,3.0,4.0,4.0,0.0,1.0,0.0,0.0,2.5,0.0,4.0,4.5,4.5,0.0,2.5,1,20071,Vuong Tuyet Xuan,20071-Vuong_Tuyet_Xuan.pdf,Middle Frontend Developer,Learning Management System,5,5,Mid-level,59,39
+0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.5,0.0,2,20073,To Thanh Duc,20073-To_Thanh_Duc.pdf,Junior Backend Developer,Fintech App,1,1,Junior,4,2
+0.0,1.5,7.0,2.5,0.0,9.0,9.0,0.0,0.0,0.0,3.5,8.0,4.0,0.0,10.0,10.0,0.0,0.0,0,20077,Nguyen Tam Khanh,20077-Nguyen_Tam_Khanh.pdf,Software Architect,CRM System,9,9,Architect,204,147
+0.0,0.0,4.5,0.0,0.0,0.5,0.5,0.0,0.0,0.0,0.0,6.5,0.0,0.0,1.5,1.5,0.0,0.0,0,20078,Ly Giang My,20078-Ly_Giang_My.pdf,Senior Software Engineer,Healthcare System,7,7,Senior,84,53
+0.5,1.5,2.0,0.0,0.0,2.5,2.5,0.5,0.5,2.0,3.0,3.0,0.0,0.0,3.0,3.0,2.0,2.0,2,20079,Nguyen Tri Quang,20079-Nguyen_Tri_Quang.pdf,Middle QA Engineer,Payment Gateway,4,4,Mid-level,41,16
+0.0,0.0,1.5,0.0,3.5,5.0,5.0,0.0,1.5,0.0,0.0,2.5,0.0,4.5,7.0,7.0,0.0,2.5,0,20082,Pham Thu Dung,20082-Pham_Thu_Dung.pdf,Senior Software Engineer,Logistics Tracking Platform,5,5,Senior,115,32
+2.5,0.0,1.0,0.0,0.0,2.5,2.5,2.5,0.0,4.5,0.0,2.5,0.0,0.0,4.0,4.0,4.5,0.0,0,20083,Hoang Hong Sen,20083-Hoang_Hong_Sen.pdf,Middle Software Engineer,AI Chatbot,3,3,Mid-level,69,46
+0.0,2.5,2.5,0.0,0.0,2.5,2.5,0.0,1.0,0.0,3.0,3.0,0.0,0.0,3.0,3.0,0.0,2.0,3,20085,Trinh Bao Khanh,20085-Trinh_Bao_Khanh.pdf,Middle Data Scientist,Healthcare System,3,3,Mid-level,41,26
+7.0,0.0,1.0,0.0,0.0,8.0,8.0,7.0,1.0,8.0,0.0,3.0,0.0,0.0,9.5,9.5,8.0,2.5,0,20087,Luu Thuy Truc,20087-Luu_Thuy_Truc.pdf,Senior Software Engineer,Healthcare System,9,9,Senior,160,71
+5.0,0.5,2.0,0.0,0.0,5.5,5.5,5.0,0.5,6.0,1.5,3.5,0.0,0.0,7.0,7.0,6.0,2.0,0,20089,Ly Yen Dung,20089-Ly_Yen_Dung.pdf,Senior Software Engineer,ERP Solution,7,7,Senior,153,72
+0.0,2.0,5.0,0.0,0.0,5.0,5.0,0.0,2.5,0.0,3.5,6.0,0.0,0.0,6.5,6.5,0.0,3.5,0,20097,Ta Tri Minh,20097-Ta_Tri_Minh.pdf,Senior Software Engineer,Real-time Dashboard,6,6,Senior,125,61
+0.5,0.0,2.0,0.0,0.0,2.5,2.5,0.5,2.0,2.5,0.0,3.5,0.0,0.0,4.5,4.5,2.5,3.0,0,20098,Luu Khanh Minh,20098-Luu_Khanh_Minh.pdf,Senior Software Engineer,ERP Solution,6,6,Senior,97,59
+0.5,0.5,2.5,0.0,1.5,3.5,3.5,0.5,0.5,2.5,2.0,4.0,0.0,2.5,5.5,5.5,2.5,2.5,0,20102,Bui Van Vinh,20102-Bui_Van_Vinh.pdf,Senior Backend Developer,AI Chatbot,6,6,Senior,84,22
+0.0,3.0,3.0,0.0,0.0,3.0,3.0,0.0,3.0,0.0,5.0,4.0,0.0,0.0,4.0,4.0,0.0,4.0,0,20108,Nguyen Dat Duc,20108-Nguyen_Dat_Duc.pdf,Middle Backend Developer,Healthcare System,3,3,Mid-level,76,53
+1.5,0.0,0.5,0.0,4.0,6.0,6.0,1.5,0.5,3.5,0.0,2.5,0.0,5.5,7.5,7.5,3.5,2.5,0,20110,Phan Phong Quang,20110-Phan_Phong_Quang.pdf,Senior Software Engineer,Fintech App,6,6,Senior,108,107
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,20111,Doan Hai Hung,20111-Doan_Hai_Hung.pdf,Junior Software Engineer,E-commerce Platform,2,2,Junior,23,23
+0.0,5.0,5.0,0.0,0.0,5.0,5.0,0.0,4.0,0.0,6.0,6.0,0.0,0.0,7.0,7.0,0.0,5.0,0,20119,Trinh Kien Minh,20119-Trinh_Kien_Minh.pdf,Senior Backend Developer,AI Chatbot,5,5,Senior,136,95
+0.0,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,0.0,3.0,3.0,0.0,0.0,3.0,3.0,0.0,3.0,4,20121,Luong Tram Minh,20121-Luong_Tram_Minh.pdf,Middle Software Engineer,Learning Management System,5,5,Mid-level,40,12
+3.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,4.5,0.0,0.0,0.0,0.0,5.0,5.0,4.5,0.0,0,20137,Vuong Khanh Binh,20137-Vuong_Khanh_Binh.pdf,Middle Backend Developer,Learning Management System,4,4,Mid-level,67,33
+5.0,1.0,2.0,0.0,0.0,7.0,7.0,5.0,1.0,6.0,2.0,3.0,0.0,0.0,8.0,8.0,6.0,2.0,0,20138,Luu Tam Minh,20138-Luu_Tam_Minh.pdf,Software Architect,IoT Monitoring System,7,7,Architect,235,173
+0.0,1.0,1.0,0.0,0.5,1.5,1.5,0.0,1.0,0.0,2.0,2.0,0.0,1.5,2.0,2.0,0.0,2.0,3,20140,Duong Tuyet Loan,20140-Duong_Tuyet_Loan.pdf,Middle QA Engineer,IoT Monitoring System,3,3,Mid-level,24,21
+0.0,1.5,1.5,3.0,0.0,4.5,4.5,0.0,1.0,0.0,3.0,3.5,4.0,0.0,6.0,6.0,0.0,2.5,0,20142,Do Huong Chi,20142-Do_Huong_Chi.pdf,Software Architect,Payment Gateway,6,6,Architect,217,203
+0.0,0.0,2.5,0.0,3.5,3.5,3.5,0.0,0.0,0.0,0.0,4.0,0.0,4.5,5.5,5.5,0.0,0.0,0,20159,Ngo Dung Hoa,20159-Ngo_Dung_Hoa.pdf,Senior Software Engineer,IoT Monitoring System,5,5,Senior,122,44
+0.0,0.0,7.0,0.0,0.0,2.5,2.5,0.0,2.5,0.0,0.0,8.5,0.0,0.0,4.0,4.0,0.0,4.5,0,20166,Ho Tuyet Thuy,20166-Ho_Tuyet_Thuy.pdf,Senior Software Engineer,Real-time Dashboard,7,7,Senior,183,83
+0.0,0.0,1.5,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,2.5,0.0,2.5,2.5,2.5,0.0,0.0,0,20169,Doan Mai Hong,20169-Doan_Mai_Hong.pdf,Middle Software Engineer,Fintech App,3,3,Mid-level,43,23
+0.0,0.5,1.5,0.0,0.0,0.5,0.5,0.0,0.5,0.0,1.5,1.5,0.0,0.0,1.5,1.5,0.0,1.5,3,20175,To Tuan Duy,20175-To_Tuan_Duy.pdf,Junior Software Engineer,Fintech App,3,3,Junior,22,10
+0.0,4.5,8.5,1.0,0.0,7.0,7.0,0.0,4.5,0.0,6.0,9.5,2.5,0.0,8.5,8.5,0.0,6.0,0,20185,Hoang Tri Tin,20185-Hoang_Tri_Tin.pdf,Senior Software Engineer,ERP Solution,8,8,Senior,177,109
+0.0,0.0,3.5,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,5.5,0.0,2.0,2.5,2.5,0.0,0.0,0,20193,Tran Kien Vinh,20193-Tran_Kien_Vinh.pdf,Senior Software Engineer,Real-time Dashboard,5,5,Senior,104,59
+0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,2,20197,Le Anh Kim,20197-Le_Anh_Kim.pdf,Junior Software Engineer,E-commerce Platform,2,2,Junior,13,11
+0.0,0.0,6.5,0.0,0.0,1.5,1.5,0.0,0.0,0.0,0.0,8.5,0.0,0.0,3.5,3.5,0.0,0.0,0,20199,Hoang Tram Dung,20199-Hoang_Tram_Dung.pdf,Backend Architect,Mobile Banking App,6,6,Architect,217,173
+0.0,6.5,6.5,0.0,0.0,6.5,6.5,0.0,6.5,0.0,7.5,7.5,0.0,0.0,8.5,8.5,0.0,8.0,0,20200,Le Anh Quang,20200-Le_Anh_Quang.pdf,Senior Data Scientist,CRM System,7,7,Senior,102,59
+0.0,0.0,0.0,0.0,5.5,5.5,5.5,0.0,0.0,0.0,0.0,0.0,0.0,6.5,6.5,6.5,0.0,0.0,0,20205,Vuong Khanh Son,20205-Vuong_Khanh_Son.pdf,Senior Software Engineer,Fintech App,6,6,Senior,110,82
+0.0,1.5,4.0,1.0,0.0,5.0,5.0,0.0,0.0,0.0,3.5,5.5,2.0,0.0,7.0,7.0,0.0,0.0,0,20209,Tran Thanh Dung,20209-Tran_Thanh_Dung.pdf,Software Architect,ERP Solution,7,7,Architect,198,52
+0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,0.0,0.0,0.0,0.0,0.0,0.0,0,20210,Tong Ngoc Nhi,20210-Tong_Ngoc_Nhi.pdf,Senior Software Engineer,Payment Gateway,6,6,Senior,99,74
+0.0,3.5,4.0,0.0,0.0,3.5,3.5,0.0,3.5,0.0,5.0,5.0,0.0,0.0,4.5,4.5,0.0,4.5,0,20211,Do Duc Tuan,20211-Do_Duc_Tuan.pdf,Middle Backend Developer,Healthcare System,4,4,Mid-level,78,22
+0.0,6.0,7.0,0.0,0.0,6.0,6.0,0.0,0.0,0.0,7.0,8.5,0.0,0.0,8.0,8.0,0.0,0.0,0,20214,Doan Lan Xuan,20214-Doan_Lan_Xuan.pdf,Senior Software Engineer,Learning Management System,8,8,Senior,145,30
+0.0,0.5,5.5,0.0,0.0,4.5,4.5,0.0,1.5,0.0,1.5,7.5,0.0,0.0,6.0,6.0,0.0,2.5,0,20216,Tran Bao Tai,20216-Tran_Bao_Tai.pdf,Senior QA Engineer,Learning Management System,6,6,Senior,99,47
+0.0,0.5,0.5,0.5,0.0,1.0,1.0,0.0,0.5,0.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,5,20219,Dang Trang Kim,20219-Dang_Trang_Kim.pdf,Junior Software Engineer,Logistics Tracking Platform,3,3,Junior,12,9
+0.5,2.0,6.5,1.0,0.0,4.0,4.0,0.5,0.0,1.5,3.0,7.5,3.0,0.0,6.0,6.0,1.5,0.0,0,20222,To Bao Quang,20222-To_Bao_Quang.pdf,Backend Architect,AI Chatbot,8,8,Architect,225,106
+8.0,0.0,1.0,0.5,0.0,9.0,9.0,8.0,0.0,9.0,0.0,2.0,2.0,0.0,10.0,10.0,9.0,0.0,0,20232,Pham Hong Bich,20232-Pham_Hong_Bich.pdf,Senior DevOps Engineer,Logistics Tracking Platform,9,9,Senior,163,72
+0.0,3.0,3.5,0.0,0.0,3.0,3.0,0.0,3.0,0.0,5.0,4.5,0.0,0.0,5.0,5.0,0.0,4.5,0,20236,Doan Hong Thuy,20236-Doan_Hong_Thuy.pdf,Middle Software Engineer,Mobile Banking App,5,5,Mid-level,63,43
+1.0,0.0,4.0,0.0,0.0,5.5,5.5,1.0,0.0,3.0,0.0,5.0,0.0,0.0,7.0,7.0,3.0,0.0,0,20238,Do Tram Minh,20238-Do_Tram_Minh.pdf,Senior Software Engineer,Payment Gateway,5,5,Senior,84,73
+0.5,5.5,5.5,0.0,0.0,6.0,6.0,0.5,4.5,1.5,7.0,6.5,0.0,0.0,8.0,8.0,1.5,6.0,0,20245,Vo Anh Sen,20245-Vo_Anh_Sen.pdf,Solution Architect,Logistics Tracking Platform,6,6,Architect,235,125
+3.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,5.0,0.0,0.0,0.0,0.0,4.5,4.5,5.0,0.0,0,20248,Nguyen Quang Thang,20248-Nguyen_Quang_Thang.pdf,Middle Backend Developer,Real-time Dashboard,3,3,Mid-level,65,43
+0.5,0.0,2.5,2.0,1.0,4.0,4.0,0.5,1.0,2.0,0.0,4.0,4.0,3.0,5.5,5.5,2.0,3.0,0,20250,Trinh Dat Manh,20250-Trinh_Dat_Manh.pdf,Senior Software Engineer,Fintech App,7,7,Senior,93,32
+1.0,0.0,0.0,6.5,0.0,7.5,7.5,1.0,0.0,2.0,0.0,0.0,7.5,0.0,9.0,9.0,2.0,0.0,0,20251,Trinh Quang Vinh,20251-Trinh_Quang_Vinh.pdf,Backend Architect,IoT Monitoring System,7,7,Architect,230,179
+0.5,0.0,4.0,0.0,0.0,0.5,0.5,0.5,0.0,1.5,0.0,5.0,0.0,0.0,1.5,1.5,1.5,0.0,0,20255,Do Hai An,20255-Do_Hai_An.pdf,Senior Backend Developer,ERP Solution,6,6,Senior,107,31
+0.0,0.0,5.5,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,3.0,2.0,2.0,0.0,0.0,0,20257,Do My Nhi,20257-Do_My_Nhi.pdf,Senior Backend Developer,AI Chatbot,5,5,Senior,121,19
+0.0,3.0,3.0,1.0,0.5,5.0,5.0,0.0,3.0,0.0,4.5,5.0,2.5,2.0,7.0,7.0,0.0,4.5,0,20260,Ha My Sen,20260-Ha_My_Sen.pdf,Senior Fullstack Developer,ERP Solution,6,6,Senior,93,70
+0.0,0.0,0.0,0.0,1.5,1.5,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.5,1.5,1.5,0.0,0.0,2,20261,Le Lan Khanh,20261-Le_Lan_Khanh.pdf,Junior Software Engineer,Real-time Dashboard,3,3,Junior,21,9
+4.5,0.0,1.0,0.0,0.0,4.5,4.5,4.5,0.0,6.5,0.0,2.0,0.0,0.0,5.5,5.5,6.5,0.0,0,20262,Vo Thu Tram,20262-Vo_Thu_Tram.pdf,Backend Architect,E-commerce Platform,6,6,Architect,217,208
+0.0,0.0,0.0,0.0,4.5,4.5,4.5,0.0,0.0,0.0,0.0,0.0,0.0,5.5,6.5,6.5,0.0,0.0,0,20266,Truong Trang Tien,20266-Truong_Trang_Tien.pdf,Senior Backend Developer,Logistics Tracking Platform,5,5,Senior,105,65
+0.0,0.5,5.0,0.0,0.0,0.5,0.5,0.0,0.5,0.0,1.5,6.0,0.0,0.0,2.0,2.0,0.0,1.5,0,20267,Dang Ngoc Hanh,20267-Dang_Ngoc_Hanh.pdf,Software Architect,Payment Gateway,6,6,Architect,210,64
+4.5,1.0,3.0,0.0,0.0,7.0,7.0,4.5,0.0,5.5,3.0,5.0,0.0,0.0,9.0,9.0,5.5,0.0,0,20276,Ly Duy Thang,20276-Ly_Duy_Thang.pdf,Senior Backend Developer,Payment Gateway,7,7,Senior,167,25
+3.5,1.0,2.0,0.0,0.0,5.0,5.0,3.5,0.0,4.5,2.5,3.5,0.0,0.0,7.0,7.0,4.5,0.0,0,20278,Dang Khanh Hung,20278-Dang_Khanh_Hung.pdf,Senior Backend Developer,Mobile Banking App,7,7,Senior,105,37
+3.5,1.0,2.0,0.0,0.0,4.5,4.5,3.5,1.0,4.5,2.0,3.5,0.0,0.0,6.5,6.5,4.5,2.0,0,20281,Mai Ngoc Trang,20281-Mai_Ngoc_Trang.pdf,Senior Backend Developer,IoT Monitoring System,6,6,Senior,107,87
+1.0,0.0,4.0,1.0,0.0,6.0,6.0,1.0,0.0,2.5,0.0,5.5,3.0,0.0,7.0,7.0,2.5,0.0,1,20282,Vo Thi Giang,20282-Vo_Thi_Giang.pdf,Senior QA Engineer,ERP Solution,6,6,Senior,85,45
+0.0,0.0,0.0,0.5,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,1.5,1.5,2.0,2.0,0.0,0.0,3,20287,Cao Huu Hung,20287-Cao_Huu_Hung.pdf,Junior Software Engineer,CRM System,3,3,Junior,23,11
+0.0,0.0,5.0,0.0,0.0,5.0,5.0,0.0,0.5,0.0,0.0,6.0,0.0,0.0,6.5,6.5,0.0,2.0,0,20291,Do Bao Binh,20291-Do_Bao_Binh.pdf,Senior Software Engineer,Learning Management System,5,5,Senior,117,88
+0.0,8.5,8.5,0.0,0.0,8.5,8.5,0.0,8.5,0.0,10.5,9.5,0.0,0.0,9.5,9.5,0.0,10.5,0,20293,Mai Dung Le,20293-Mai_Dung_Le.pdf,Senior Backend Developer,Learning Management System,8,8,Senior,165,140
+0.0,1.5,1.5,0.0,0.0,7.0,7.0,0.0,6.0,0.0,3.5,3.0,0.0,0.0,9.0,9.0,0.0,7.5,0,20295,Le Tuyet Linh,20295-Le_Tuyet_Linh.pdf,Senior Software Engineer,Fintech App,7,7,Senior,132,34
+0.0,7.0,7.0,0.0,0.0,7.0,7.0,0.0,6.0,0.0,8.0,9.0,0.0,0.0,9.0,9.0,0.0,7.5,0,20297,Luu Mai Hong,20297-Luu_Mai_Hong.pdf,Data & AI Architect,Payment Gateway,9,9,Architect,234,51
+0.0,1.0,1.0,0.0,0.5,6.0,6.0,0.0,5.0,0.0,2.5,3.0,0.0,1.5,7.0,7.0,0.0,6.0,0,20299,Pham Tuan Tin,20299-Pham_Tuan_Tin.pdf,Senior Software Engineer,Fintech App,9,9,Senior,157,119
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,20300,Luong Van Binh,20300-Luong_Van_Binh.pdf,Junior Data Analyst,Healthcare System,3,3,Junior,19,12
+0.0,0.0,4.0,0.0,0.5,4.0,4.0,0.0,3.5,0.0,0.0,5.0,0.0,2.0,6.0,6.0,0.0,4.5,0,20306,Vuong Huu Phuc,20306-Vuong_Huu_Phuc.pdf,Software Architect,Healthcare System,6,6,Architect,195,118
+4.0,1.0,2.0,0.0,0.0,5.0,5.0,4.0,0.0,5.0,2.0,3.5,0.0,0.0,6.5,6.5,5.0,0.0,0,20307,Cao Yen Chau,20307-Cao_Yen_Chau.pdf,Senior Backend Developer,Fintech App,6,6,Senior,120,47
+0.0,0.0,6.5,1.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,8.0,3.0,0.0,9.0,9.0,0.0,0.0,0,20308,Hoang Minh Kien,20308-Hoang_Minh_Kien.pdf,Backend Architect,Logistics Tracking Platform,7,7,Architect,216,202
+1.0,1.5,1.5,0.0,3.0,5.5,5.5,1.0,1.0,2.0,2.5,3.0,0.0,4.0,6.5,6.5,2.0,2.0,0,20310,Vuong Huong My,20310-Vuong_Huong_My.pdf,Senior Software Engineer,Logistics Tracking Platform,6,6,Senior,107,55
+0.0,0.0,1.0,0.0,1.5,2.5,2.5,0.0,1.0,0.0,0.0,3.0,0.0,2.5,4.0,4.0,0.0,3.0,0,20311,Dang Dat Tai,20311-Dang_Dat_Tai.pdf,Senior Software Engineer,Real-time Dashboard,6,6,Senior,112,78
+0.0,0.5,1.5,0.0,3.5,6.0,6.0,0.0,2.0,0.0,1.5,2.5,0.0,5.0,7.0,7.0,0.0,3.5,0,20313,Mai Tuyet Dung,20313-Mai_Tuyet_Dung.pdf,Senior Software Engineer,Real-time Dashboard,6,6,Senior,134,18
+0.0,0.5,0.5,0.0,0.0,0.5,0.5,0.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0,20319,Luong Giang Uyen,20319-Luong_Giang_Uyen.pdf,Senior Software Engineer,E-commerce Platform,5,5,Senior,127,86
+0.0,4.5,7.0,1.5,0.0,8.5,8.5,0.0,3.0,0.0,5.5,9.0,3.0,0.0,10.0,10.0,0.0,4.5,0,20320,To Thu Hoa,20320-To_Thu_Hoa.pdf,Senior Backend Developer,Payment Gateway,7,7,Senior,126,69
+0.0,0.5,3.0,0.0,0.0,3.0,3.0,0.0,2.0,0.0,1.5,4.5,0.0,0.0,5.0,5.0,0.0,3.0,0,20322,Ha Anh Phong,20322-Ha_Anh_Phong.pdf,Software Architect,E-commerce Platform,8,8,Architect,233,141
+0.0,4.5,4.5,0.0,0.0,4.5,4.5,0.0,0.0,0.0,6.0,5.5,0.0,0.0,6.5,6.5,0.0,0.0,0,20324,Le Thuy Vy,20324-Le_Thuy_Vy.pdf,Senior Data Scientist,CRM System,5,5,Senior,134,62
+5.0,0.5,0.5,0.0,0.0,7.0,7.0,5.0,1.5,6.0,1.5,2.5,0.0,0.0,8.0,8.0,6.0,3.5,0,20328,Luong Duc Long,20328-Luong_Duc_Long.pdf,Senior Software Engineer,IoT Monitoring System,7,7,Senior,123,64
+0.0,3.0,4.5,1.0,0.0,6.0,6.0,0.0,0.0,0.0,4.0,5.5,2.0,0.0,7.0,7.0,0.0,0.0,0,20329,Lam Anh Mai,20329-Lam_Anh_Mai.pdf,Senior Software Engineer,AI Chatbot,6,6,Senior,100,42
+4.0,1.5,1.5,1.0,0.0,6.0,6.0,4.0,1.5,6.0,3.5,2.5,2.5,0.0,7.0,7.0,6.0,3.0,0,20332,Ha Hung Long,20332-Ha_Hung_Long.pdf,Senior DevOps Engineer,ERP Solution,7,7,Senior,105,20
+1.0,4.5,4.5,1.0,2.0,8.0,8.0,1.0,0.0,2.0,6.5,6.0,3.0,3.5,9.5,9.5,2.0,0.0,0,20333,Hoang Dung Minh,20333-Hoang_Dung_Minh.pdf,Senior Backend Developer,ERP Solution,8,8,Senior,156,24
+0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,2.5,2.5,0.0,0.0,2.5,2.5,0.0,2.5,4,20345,Do Duy Thanh,20345-Do_Duy_Thanh.pdf,Junior Software Engineer,Real-time Dashboard,2,2,Junior,31,18
+0.0,0.0,3.5,0.0,0.0,3.5,3.5,0.0,0.0,0.0,0.0,4.5,0.0,0.0,4.5,4.5,0.0,0.0,1,20347,Dinh Thi Huong,20347-Dinh_Thi_Huong.pdf,Middle Frontend Developer,Mobile Banking App,4,4,Mid-level,59,47
+0.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0,2.5,2.5,0.0,0.0,1,20352,Ho Hong My,20352-Ho_Hong_My.pdf,Middle Software Engineer,ERP Solution,3,3,Mid-level,36,24
+1.5,3.0,6.0,0.5,0.0,7.5,7.5,1.5,2.0,3.5,4.0,7.0,2.0,0.0,9.5,9.5,3.5,4.0,0,20353,Trinh Kien Vinh,20353-Trinh_Kien_Vinh.pdf,Solution Architect,Payment Gateway,8,8,Architect,227,57
+0.0,0.0,6.0,1.0,0.0,3.5,3.5,0.0,0.5,0.0,0.0,7.0,2.0,0.0,5.5,5.5,0.0,1.5,0,20356,Tong Anh Ngan,20356-Tong_Anh_Ngan.pdf,Senior Software Engineer,Fintech App,7,7,Senior,175,101
+1.5,0.5,2.0,6.0,0.0,9.0,9.0,1.5,1.0,2.5,2.0,4.0,7.0,0.0,10.5,10.5,2.5,2.5,0,20360,Lam Nam Bao,20360-Lam_Nam_Bao.pdf,Software Architect,Real-time Dashboard,9,9,Architect,222,47
+0.0,0.0,4.5,0.5,0.5,6.0,6.0,0.0,0.0,0.0,0.0,6.5,2.0,1.5,7.0,7.0,0.0,0.0,0,20363,Ho Lan Huong,20363-Ho_Lan_Huong.pdf,Senior Software Engineer,ERP Solution,7,7,Senior,98,57
+0.5,0.0,1.0,2.5,1.5,4.5,4.5,0.5,0.0,2.5,0.0,2.5,3.5,3.0,6.0,6.0,2.5,0.0,0,20364,Lam Thu My,20364-Lam_Thu_My.pdf,Software Architect,E-commerce Platform,7,7,Architect,222,119
+2.0,2.0,3.0,0.0,0.0,5.0,5.0,2.0,2.0,4.0,3.0,4.0,0.0,0.0,6.0,6.0,4.0,3.0,0,20366,Cao Tuan Thanh,20366-Cao_Tuan_Thanh.pdf,Senior Backend Developer,Fintech App,5,5,Senior,121,42
+0.0,1.5,7.0,0.0,0.0,1.5,1.5,0.0,1.5,0.0,2.5,9.0,0.0,0.0,3.0,3.0,0.0,3.0,0,20372,Cao Thu Dung,20372-Cao_Thu_Dung.pdf,Software Architect,Healthcare System,7,7,Architect,207,142
+0.0,0.0,0.0,0.0,2.5,2.5,2.5,0.0,0.0,0.0,0.0,0.0,0.0,3.5,4.0,4.0,0.0,0.0,0,20378,To Mai Hanh,20378-To_Mai_Hanh.pdf,Middle Software Engineer,IoT Monitoring System,4,4,Mid-level,48,29
+0.0,1.0,4.5,1.0,1.0,5.5,5.5,0.0,0.0,0.0,2.0,5.5,2.5,2.0,7.5,7.5,0.0,0.0,0,20381,Do Minh Bao,20381-Do_Minh_Bao.pdf,Senior Backend Developer,AI Chatbot,7,7,Senior,107,39
+0.0,0.0,7.0,0.0,0.0,7.0,7.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,8.0,8.0,0.0,0.0,1,20382,Ha Giang Huong,20382-Ha_Giang_Huong.pdf,Senior Frontend Developer,Healthcare System,7,7,Senior,101,64
+0.0,0.5,3.5,0.0,0.0,2.5,2.5,0.0,1.0,0.0,2.0,4.5,0.0,0.0,4.0,4.0,0.0,2.0,0,20383,Tran Tri Anh,20383-Tran_Tri_Anh.pdf,Senior Software Engineer,CRM System,7,7,Senior,117,99
+0.0,3.5,4.0,0.0,0.0,4.0,4.0,0.0,4.0,0.0,5.5,6.0,0.0,0.0,5.0,5.0,0.0,5.5,0,20399,Pham Yen Le,20399-Pham_Yen_Le.pdf,Senior Software Engineer,Mobile Banking App,7,7,Senior,94,33
+0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0,20412,Luong Hoang Tin,20412-Luong_Hoang_Tin.pdf,Senior Software Engineer,IoT Monitoring System,7,7,Senior,123,80
+0.0,1.0,1.0,0.0,0.5,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,5,20421,Vuong Thuy Hong,20421-Vuong_Thuy_Hong.pdf,Junior Backend Developer,Logistics Tracking Platform,3,3,Junior,15,13
+0.0,0.0,0.0,0.5,5.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,2.0,6.0,7.0,7.0,0.0,0.0,0,20424,Ngo Duy Phong,20424-Ngo_Duy_Phong.pdf,Senior Frontend Developer,AI Chatbot,6,6,Senior,148,117
+0.0,0.0,5.5,0.0,1.5,7.0,7.0,0.0,0.0,0.0,0.0,7.5,0.0,3.0,8.5,8.5,0.0,0.0,1,20425,Lam Nam Y,20425-Lam_Nam_Y.pdf,Senior Software Engineer,Payment Gateway,6,6,Senior,105,28
+0.0,0.0,7.0,0.0,0.0,7.0,7.0,0.0,6.0,0.0,0.0,9.0,0.0,0.0,9.0,9.0,0.0,8.0,0,20426,Luu Thanh Dat,20426-Luu_Thanh_Dat.pdf,Senior Software Engineer,E-commerce Platform,7,7,Senior,127,48
+0.0,0.0,1.0,2.5,0.0,4.0,4.0,0.0,0.0,0.0,0.0,2.0,4.5,0.0,5.0,5.0,0.0,0.0,1,20429,Luu Huong Dung,20429-Luu_Huong_Dung.pdf,Middle Fullstack Developer,Healthcare System,4,4,Mid-level,63,16
+0.0,2.5,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,3.0,3.0,0.0,0.0,3.0,3.0,0.0,0.0,3,20431,Tong Bich Chi,20431-Tong_Bich_Chi.pdf,Middle Backend Developer,IoT Monitoring System,4,4,Mid-level,37,36
+2.0,0.0,3.0,0.0,1.0,4.5,4.5,2.0,0.0,3.5,0.0,4.5,0.0,2.0,5.5,5.5,3.5,0.0,0,20433,Cao Hung Nam,20433-Cao_Hung_Nam.pdf,Senior Software Engineer,Logistics Tracking Platform,7,7,Senior,162,141
+0.0,4.0,5.0,1.0,0.0,5.0,5.0,0.0,0.0,0.0,6.0,7.0,2.5,0.0,6.0,6.0,0.0,0.0,0,20434,Dinh Minh Anh,20434-Dinh_Minh_Anh.pdf,Senior QA Engineer,Payment Gateway,6,6,Senior,92,40
+1.0,0.5,0.5,0.0,5.0,7.0,7.0,1.0,0.5,2.5,1.5,2.5,0.0,7.0,9.0,9.0,2.5,2.0,0,20437,Huynh Bich Giang,20437-Huynh_Bich_Giang.pdf,Senior Backend Developer,E-commerce Platform,7,7,Senior,139,134
+0.0,0.0,1.5,6.0,0.5,8.0,8.0,0.0,0.0,0.0,0.0,2.5,7.0,2.5,9.0,9.0,0.0,0.0,0,20443,Trinh Quang Long,20443-Trinh_Quang_Long.pdf,Senior Software Engineer,CRM System,7,7,Senior,166,105
+0.0,5.0,5.0,0.0,0.0,5.0,5.0,0.0,2.0,0.0,7.0,6.5,0.0,0.0,6.5,6.5,0.0,4.0,0,20449,Dang Tuan Tin,20449-Dang_Tuan_Tin.pdf,Senior Data Scientist,Fintech App,5,5,Senior,106,87
+2.0,0.0,0.0,0.0,0.0,4.0,4.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,5.0,5.0,3.0,3.5,0,20450,Vu Huu Kien,20450-Vu_Huu_Kien.pdf,Senior QA Engineer,Real-time Dashboard,5,5,Senior,104,39
+1.0,2.5,4.0,0.0,0.0,4.5,4.5,1.0,2.5,3.0,4.0,5.5,0.0,0.0,6.5,6.5,3.0,4.5,0,20451,Bui Hai Duc,20451-Bui_Hai_Duc.pdf,Senior Backend Developer,Mobile Banking App,6,6,Senior,138,40
+0.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,2.0,0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,2.5,3,20454,Phan Hong Lan,20454-Phan_Hong_Lan.pdf,Junior Software Engineer,IoT Monitoring System,2,2,Junior,33,17
+0.0,0.0,0.0,9.0,0.0,9.0,9.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0,11.0,11.0,0.0,0.0,0,20457,Le Trang Vy,20457-Le_Trang_Vy.pdf,Software Architect,Real-time Dashboard,9,9,Architect,195,72
+3.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,2,20463,Pham Thu My,20463-Pham_Thu_My.pdf,Middle Backend Developer,Payment Gateway,3,3,Mid-level,41,30
+3.5,0.0,0.0,0.0,0.0,3.5,3.5,3.5,0.0,4.5,0.0,0.0,0.0,0.0,4.5,4.5,4.5,0.0,1,20465,Bui Tram Hong,20465-Bui_Tram_Hong.pdf,Middle Backend Developer,CRM System,4,4,Mid-level,55,12
+0.0,5.0,6.5,0.0,0.0,6.5,6.5,0.0,3.0,0.0,7.0,8.5,0.0,0.0,8.0,8.0,0.0,4.5,0,20466,Truong Quang Vinh,20466-Truong_Quang_Vinh.pdf,Senior Project Manager,Mobile Banking App,6,6,Senior,116,106
+0.0,7.0,7.0,0.0,0.0,8.0,8.0,0.0,2.5,0.0,9.0,9.0,0.0,0.0,9.0,9.0,0.0,3.5,0,20469,Dinh Hung Vinh,20469-Dinh_Hung_Vinh.pdf,Software Architect,AI Chatbot,7,7,Architect,231,153
+0.0,0.5,1.0,0.0,0.0,0.5,0.5,0.0,0.5,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,4,20478,Phan Dung Diem,20478-Phan_Dung_Diem.pdf,Middle Data Analyst,Payment Gateway,3,3,Mid-level,12,6
+0.0,0.0,6.0,0.0,0.0,6.0,6.0,0.0,4.5,0.0,0.0,7.0,0.0,0.0,7.5,7.5,0.0,5.5,0,20479,Nguyen Bich Le,20479-Nguyen_Bich_Le.pdf,Senior Software Engineer,Learning Management System,9,9,Senior,155,72
+0.0,2.0,4.5,1.0,0.0,5.0,5.0,0.0,4.0,0.0,4.0,6.0,2.0,0.0,6.5,6.5,0.0,5.5,0,20480,Cao Van Manh,20480-Cao_Van_Manh.pdf,Senior QA Engineer,Payment Gateway,7,7,Senior,185,144
+0.0,4.0,6.0,0.0,0.0,5.0,5.0,0.0,4.0,0.0,5.5,7.5,0.0,0.0,7.0,7.0,0.0,6.0,0,20483,Do Khanh Bao,20483-Do_Khanh_Bao.pdf,Senior Software Engineer,Healthcare System,6,6,Senior,92,88
+0.0,5.5,7.0,0.0,0.0,7.0,7.0,0.0,0.0,0.0,6.5,8.5,0.0,0.0,8.0,8.0,0.0,0.0,0,20486,Hoang Huong Loan,20486-Hoang_Huong_Loan.pdf,Software Architect,Mobile Banking App,6,6,Architect,199,64
+2.0,1.0,1.0,4.0,0.0,7.0,7.0,2.0,0.0,3.5,2.0,3.0,5.0,0.0,8.5,8.5,3.5,0.0,0,20494,To Phong An,20494-To_Phong_An.pdf,Senior Backend Developer,Real-time Dashboard,9,9,Senior,144,143
+0.0,1.5,1.5,0.0,5.0,7.0,7.0,0.0,2.0,0.0,3.5,3.0,0.0,6.5,8.0,8.0,0.0,3.0,0,20498,Huynh Lan Vy,20498-Huynh_Lan_Vy.pdf,Software Architect,E-commerce Platform,7,7,Architect,213,175
+0.0,1.0,6.0,0.0,1.0,6.5,6.5,0.0,5.0,0.0,2.5,7.0,0.0,3.0,8.0,8.0,0.0,6.5,0,20508,Cao Bao Manh,20508-Cao_Bao_Manh.pdf,Software Architect,CRM System,7,7,Architect,236,79
+0.0,2.5,3.5,0.0,5.0,10.0,10.0,0.0,3.5,0.0,4.0,4.5,0.0,6.5,12.0,12.0,0.0,4.5,0,20514,Do Diem Kim,20514-Do_Diem_Kim.pdf,Software Architect,Fintech App,9,9,Architect,227,22
+0.0,0.0,6.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,8.0,0.0,2.0,2.0,2.0,0.0,0.0,0,20515,Ly Thu Giang,20515-Ly_Thu_Giang.pdf,Senior Backend Developer,E-commerce Platform,7,7,Senior,129,61
+7.0,0.0,0.0,0.0,0.0,8.5,8.5,7.0,1.5,8.0,0.0,0.0,0.0,0.0,9.5,9.5,8.0,3.5,0,20517,Truong Lien Uyen,20517-Truong_Lien_Uyen.pdf,Senior Software Engineer,Learning Management System,9,9,Senior,144,110
+0.0,2.0,6.0,0.0,0.0,3.0,3.0,0.0,2.5,0.0,3.0,8.0,0.0,0.0,4.5,4.5,0.0,4.5,0,20519,Phan Ngoc Lan,20519-Phan_Ngoc_Lan.pdf,Senior Fullstack Developer,Learning Management System,8,8,Senior,146,35
+3.0,0.0,0.5,1.5,0.0,4.0,4.0,3.0,0.0,4.0,0.0,2.5,2.5,0.0,6.0,6.0,4.0,0.0,0,20522,Vuong Lan Bich,20522-Vuong_Lan_Bich.pdf,Senior DevOps Engineer,E-commerce Platform,6,6,Senior,111,58
+0.0,6.5,6.5,0.0,0.0,6.5,6.5,0.0,6.5,0.0,8.5,8.0,0.0,0.0,8.5,8.5,0.0,8.5,0,20523,Bui Hung Tuan,20523-Bui_Hung_Tuan.pdf,Data & AI Architect,Healthcare System,8,8,Architect,231,24
+0.0,0.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,1,20526,Phan Dung Bao,20526-Phan_Dung_Bao.pdf,Middle Data Analyst,ERP Solution,3,3,Mid-level,65,59
+0.0,5.0,5.5,0.0,0.0,5.5,5.5,0.0,5.5,0.0,7.0,6.5,0.0,0.0,7.5,7.5,0.0,6.5,0,20527,Vo Lien Dung,20527-Vo_Lien_Dung.pdf,Software Architect,Fintech App,7,7,Architect,195,52
+0.5,2.0,2.0,0.5,0.0,3.0,3.0,0.5,2.0,1.5,3.0,3.0,1.5,0.0,3.0,3.0,1.5,3.0,4,20528,Vu Yen Chi,20528-Vu_Yen_Chi.pdf,Middle Software Engineer,E-commerce Platform,5,5,Mid-level,38,13
+0.0,0.5,2.5,0.0,2.5,6.0,6.0,0.0,1.5,0.0,2.5,4.0,0.0,3.5,7.0,7.0,0.0,3.0,0,20529,Dinh Tri Thang,20529-Dinh_Tri_Thang.pdf,Senior Software Engineer,Real-time Dashboard,7,7,Senior,89,70
+0.5,0.0,1.0,0.0,0.0,2.5,2.5,0.5,2.0,1.5,0.0,2.5,0.0,0.0,4.0,4.0,1.5,3.5,0,20534,Dinh Trang Mai,20534-Dinh_Trang_Mai.pdf,Middle Software Engineer,AI Chatbot,4,4,Mid-level,60,58
+1.0,0.5,0.5,0.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,4,20535,Tran Thu Yen,20535-Tran_Thu_Yen.pdf,Junior QA Engineer,IoT Monitoring System,3,3,Junior,15,15
+0.0,0.0,0.0,1.0,2.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,3.5,4.0,4.0,0.0,0.0,0,20536,Doan Anh Khanh,20536-Doan_Anh_Khanh.pdf,Senior Software Engineer,IoT Monitoring System,7,7,Senior,100,53
+0.5,0.0,4.0,1.0,0.0,6.0,6.0,0.5,0.0,2.0,0.0,5.5,3.0,0.0,7.5,7.5,2.0,0.0,0,20540,Ha Minh Hai,20540-Ha_Minh_Hai.pdf,Senior Software Engineer,ERP Solution,7,7,Senior,131,107
+0.0,0.0,5.0,0.5,0.0,4.5,4.5,0.0,4.0,0.0,0.0,7.0,2.0,0.0,5.5,5.5,0.0,5.0,0,20542,Huynh Van Dung,20542-Huynh_Van_Dung.pdf,Senior Software Engineer,AI Chatbot,6,6,Senior,109,22
+0.0,6.0,6.0,1.0,0.0,7.0,7.0,0.0,1.0,0.0,7.5,8.0,2.5,0.0,8.5,8.5,0.0,2.0,0,20543,Cao Van Anh,20543-Cao_Van_Anh.pdf,Senior Backend Developer,E-commerce Platform,6,6,Senior,139,84
+0.0,0.0,5.5,0.0,0.0,7.0,7.0,0.0,7.0,0.0,0.0,7.0,0.0,0.0,8.0,8.0,0.0,8.5,0,20544,Doan Lan Ai,20544-Doan_Lan_Ai.pdf,Senior QA Engineer,IoT Monitoring System,9,9,Senior,156,142
+0.0,4.5,5.5,1.0,1.5,7.0,7.0,0.0,4.5,0.0,6.0,6.5,3.0,3.5,9.0,9.0,0.0,6.5,0,20546,Vo Thi Truc,20546-Vo_Thi_Truc.pdf,Senior Backend Developer,Healthcare System,7,7,Senior,186,169
+0.0,0.0,0.0,0.0,6.0,7.0,7.0,0.0,1.0,0.0,0.0,0.0,0.0,7.5,9.0,9.0,0.0,2.0,0,20549,Tong Bao Tuan,20549-Tong_Bao_Tuan.pdf,Senior Software Engineer,IoT Monitoring System,9,9,Senior,148,148
+0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,2.0,2.5,0.0,0.0,2.0,2.0,0.0,2.0,0,20552,Ta Kien Thanh,20552-Ta_Kien_Thanh.pdf,Senior Data Scientist,IoT Monitoring System,7,7,Senior,86,39
+0.0,0.0,1.0,2.0,5.5,8.5,8.5,0.0,0.0,0.0,0.0,3.0,3.5,6.5,10.5,10.5,0.0,0.0,0,20555,Ho Thi Diem,20555-Ho_Thi_Diem.pdf,Software Architect,ERP Solution,9,9,Architect,240,140
+0.0,1.5,1.5,0.0,0.0,1.5,1.5,0.0,1.5,0.0,2.5,3.0,0.0,0.0,2.5,2.5,0.0,2.5,0,20559,Nguyen Huu Tin,20559-Nguyen_Huu_Tin.pdf,Senior Data Scientist,E-commerce Platform,5,5,Senior,98,55
+5.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,0.0,7.0,0.0,0.0,0.0,0.0,6.5,6.5,7.0,0.0,0,20571,Vu Duy Tai,20571-Vu_Duy_Tai.pdf,Senior Software Engineer,Logistics Tracking Platform,6,6,Senior,106,77
+0.0,3.0,3.0,0.0,0.5,3.5,3.5,0.0,0.0,0.0,5.0,4.5,0.0,2.5,5.5,5.5,0.0,0.0,0,20573,Ha Giang Sen,20573-Ha_Giang_Sen.pdf,Senior Backend Developer,CRM System,5,5,Senior,84,38
+0.0,0.0,5.0,1.5,0.0,1.5,1.5,0.0,0.0,0.0,0.0,7.0,3.0,0.0,3.0,3.0,0.0,0.0,0,20577,Tran Dat Cuong,20577-Tran_Dat_Cuong.pdf,Senior Backend Developer,Real-time Dashboard,6,6,Senior,103,41
+0.0,4.0,5.0,1.0,0.0,6.0,6.0,0.0,4.0,0.0,6.0,6.5,2.5,0.0,8.0,8.0,0.0,5.0,0,20579,Do Lan Linh,20579-Do_Lan_Linh.pdf,Senior Software Engineer,Learning Management System,6,6,Senior,142,122
+6.0,0.5,2.5,0.0,0.0,7.0,7.0,6.0,0.5,7.0,1.5,4.0,0.0,0.0,9.0,9.0,7.0,1.5,0,20589,Ngo Lien Ngan,20589-Ngo_Lien_Ngan.pdf,Senior Backend Developer,ERP Solution,9,9,Senior,160,97
+1.5,2.0,3.0,0.5,0.0,4.5,4.5,1.5,2.0,3.0,4.0,4.0,2.0,0.0,5.5,5.5,3.0,4.0,0,20590,To Giang Giang,20590-To_Giang_Giang.pdf,Senior DevOps Engineer,ERP Solution,7,7,Senior,96,95
+0.0,1.5,6.0,0.5,0.0,6.5,6.5,0.0,1.5,0.0,2.5,7.5,2.5,0.0,8.5,8.5,0.0,2.5,0,20592,Cao Hai Thanh,20592-Cao_Hai_Thanh.pdf,Software Architect,AI Chatbot,8,8,Architect,228,156
+0.5,5.0,5.0,0.0,0.5,6.5,6.5,0.5,5.0,1.5,6.0,6.0,0.0,2.5,8.5,8.5,1.5,6.5,0,20594,Ta Minh Y,20594-Ta_Minh_Y.pdf,Frontend Architect,IoT Monitoring System,8,8,Architect,205,174
+0.0,4.0,5.0,0.0,0.0,4.0,4.0,0.0,4.0,0.0,5.0,6.0,0.0,0.0,5.5,5.5,0.0,6.0,0,20595,Tong Anh Vinh,20595-Tong_Anh_Vinh.pdf,Senior Backend Developer,ERP Solution,5,5,Senior,135,129
+0.0,0.0,0.0,0.0,1.5,5.0,5.0,0.0,4.0,0.0,0.0,0.0,0.0,3.5,7.0,7.0,0.0,5.0,0,20596,Bui Hoang Tuan,20596-Bui_Hoang_Tuan.pdf,Senior Software Engineer,CRM System,6,6,Senior,146,44
+4.5,0.0,0.0,2.0,0.0,7.0,7.0,4.5,0.0,5.5,0.0,0.0,4.0,0.0,8.5,8.5,5.5,0.0,0,20598,Pham Tuyet Loan,20598-Pham_Tuyet_Loan.pdf,Senior Backend Developer,ERP Solution,7,7,Senior,174,77
+2.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,2,20600,Hoang Dat Hai,20600-Hoang_Dat_Hai.pdf,Junior Software Engineer,Learning Management System,3,3,Junior,24,8
+0.0,2.0,7.5,0.0,0.0,7.5,7.5,0.0,7.0,0.0,3.0,9.5,0.0,0.0,9.0,9.0,0.0,8.5,0,20603,Tong Quang Manh,20603-Tong_Quang_Manh.pdf,Software Architect,Payment Gateway,8,8,Architect,222,78
+0.0,5.5,5.5,1.0,0.0,6.5,6.5,0.0,1.0,0.0,6.5,6.5,3.0,0.0,7.0,7.0,0.0,3.0,1,20604,Duong Hoang Nam,20604-Duong_Hoang_Nam.pdf,Senior Backend Developer,IoT Monitoring System,7,7,Senior,89,79
+0.0,0.0,0.0,3.5,0.0,4.0,4.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,6.0,6.0,0.0,2.5,0,20619,Tran Nam Minh,20619-Tran_Nam_Minh.pdf,Senior Software Engineer,Healthcare System,5,5,Senior,96,67
+0.0,0.0,4.5,0.0,0.0,4.5,4.5,0.0,0.0,0.0,0.0,5.5,0.0,0.0,6.5,6.5,0.0,0.0,0,20621,Dang Lan Kim,20621-Dang_Lan_Kim.pdf,Senior Software Engineer,IoT Monitoring System,5,5,Senior,99,85
+0.0,1.0,8.5,0.0,0.0,8.5,8.5,0.0,6.0,0.0,3.0,10.0,0.0,0.0,9.5,9.5,0.0,7.0,0,20623,Tran Anh Trang,20623-Tran_Anh_Trang.pdf,Senior Software Engineer,Fintech App,9,9,Senior,170,80
+4.0,0.0,0.0,2.0,0.0,6.5,6.5,4.0,0.0,5.5,0.0,0.0,4.0,0.0,8.5,8.5,5.5,0.0,0,20626,Ngo Anh Tri,20626-Ngo_Anh_Tri.pdf,Software Architect,Healthcare System,6,6,Architect,238,160
+0.0,0.0,1.5,5.5,0.0,7.0,7.0,0.0,1.5,0.0,0.0,2.5,6.5,0.0,8.5,8.5,0.0,3.0,0,20635,Tran Lien Ngan,20635-Tran_Lien_Ngan.pdf,Senior QA Engineer,Logistics Tracking Platform,6,6,Senior,122,57
+1.0,3.0,3.0,1.0,0.0,4.5,4.5,1.0,0.0,2.0,4.0,4.5,2.0,0.0,5.5,5.5,2.0,0.0,0,20636,Le Hai Kien,20636-Le_Hai_Kien.pdf,Middle Frontend Developer,Healthcare System,5,5,Mid-level,76,13
+0.0,0.0,7.0,0.0,0.0,7.0,7.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,8.5,8.5,0.0,0.0,0,20644,Le Ngoc Ai,20644-Le_Ngoc_Ai.pdf,Senior Backend Developer,E-commerce Platform,7,7,Senior,124,103
+0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,2.0,2,20645,Mai Phong Cuong,20645-Mai_Phong_Cuong.pdf,Junior Data Analyst,Mobile Banking App,2,2,Junior,29,27
+0.0,3.0,3.0,0.0,0.0,3.0,3.0,0.0,0.0,0.0,4.0,4.0,0.0,0.0,4.0,4.0,0.0,0.0,1,20650,Vu Hai Quang,20650-Vu_Hai_Quang.pdf,Middle Backend Developer,Mobile Banking App,4,4,Mid-level,52,18
+0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,2.0,0.0,0.0,1,20651,Cao Tri Dat,20651-Cao_Tri_Dat.pdf,Middle Backend Developer,IoT Monitoring System,2,2,Mid-level,24,18
+1.5,0.0,0.0,1.0,0.0,4.0,4.0,1.5,1.5,3.0,0.0,0.0,3.0,0.0,5.5,5.5,3.0,2.5,0,20653,Phan Duc Minh,20653-Phan_Duc_Minh.pdf,Senior Software Engineer,CRM System,8,8,Senior,175,33
+0.5,1.0,2.0,0.0,0.0,2.5,2.5,0.5,0.0,2.0,2.5,4.0,0.0,0.0,4.5,4.5,2.0,0.0,0,20663,Vu Nam Manh,20663-Vu_Nam_Manh.pdf,Middle Backend Developer,Learning Management System,3,3,Mid-level,69,59
+0.0,0.0,1.5,0.0,0.0,1.5,1.5,0.0,1.5,0.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,2.0,3,20678,Phan Anh Giang,20678-Phan_Anh_Giang.pdf,Junior Software Engineer,Real-time Dashboard,2,2,Junior,24,20
+0.0,1.0,1.0,0.0,4.5,5.0,5.0,0.0,1.0,0.0,2.5,2.5,0.0,6.5,7.0,7.0,0.0,3.0,0,20679,Ly Ngoc Phuong,20679-Ly_Ngoc_Phuong.pdf,Senior Backend Developer,Logistics Tracking Platform,7,7,Senior,94,76
+0.0,3.0,4.0,0.0,0.0,3.0,3.0,0.0,3.0,0.0,5.0,6.0,0.0,0.0,4.0,4.0,0.0,4.0,0,20680,Huynh Diem Tien,20680-Huynh_Diem_Tien.pdf,Senior Backend Developer,Mobile Banking App,5,5,Senior,105,97
+0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,2,20689,Nguyen Dung Anh,20689-Nguyen_Dung_Anh.pdf,Junior Frontend Developer,Learning Management System,2,2,Junior,12,7
+0.0,0.0,0.0,0.0,6.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,7.5,7.5,0.0,0.0,0,20690,Ta Bich Bich,20690-Ta_Bich_Bich.pdf,Backend Architect,Payment Gateway,6,6,Architect,239,183
+0.0,0.0,1.0,0.0,5.5,6.5,6.5,0.0,1.0,0.0,0.0,2.5,0.0,7.5,7.5,7.5,0.0,2.0,0,20695,Le Hung Manh,20695-Le_Hung_Manh.pdf,Senior Software Engineer,IoT Monitoring System,7,7,Senior,106,34
+0.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,3,20697,Bui Thanh Phong,20697-Bui_Thanh_Phong.pdf,Middle Data Scientist,Fintech App,3,3,Mid-level,24,8
+0.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,2,20705,Dinh Hong My,20705-Dinh_Hong_My.pdf,Middle Backend Developer,Healthcare System,3,3,Mid-level,24,15
+0.5,2.0,3.0,0.0,1.0,3.5,3.5,0.5,1.5,2.0,3.5,4.0,0.0,2.0,4.5,4.5,2.0,3.0,0,20708,To Hong Ai,20708-To_Hong_Ai.pdf,Senior Software Engineer,CRM System,5,5,Senior,112,81
+0.0,2.5,3.5,4.5,0.0,8.0,8.0,0.0,3.5,0.0,4.5,4.5,6.0,0.0,9.0,9.0,0.0,5.0,0,20711,Luu Duy Tien,20711-Luu_Duy_Tien.pdf,Senior Frontend Developer,Real-time Dashboard,9,9,Senior,149,96
+0.0,0.0,0.0,7.0,0.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,8.5,0.0,8.5,8.5,0.0,0.0,0,20713,Cao Tam Tram,20713-Cao_Tam_Tram.pdf,Senior DevOps Engineer,IoT Monitoring System,7,7,Senior,108,76
+0.0,1.5,2.5,4.0,0.0,5.5,5.5,0.0,0.0,0.0,3.0,3.5,6.0,0.0,7.0,7.0,0.0,0.0,0,20716,Mai Huu Tri,20716-Mai_Huu_Tri.pdf,Senior Backend Developer,Logistics Tracking Platform,7,7,Senior,187,61
+0.0,5.5,6.0,0.0,1.0,6.0,6.0,0.0,2.0,0.0,7.5,7.0,0.0,3.0,8.0,8.0,0.0,3.5,0,20721,Ha Tam Tram,20721-Ha_Tam_Tram.pdf,Senior QA Engineer,Mobile Banking App,8,8,Senior,148,82
+7.5,0.0,0.0,0.5,0.0,8.0,8.0,7.5,0.0,8.5,0.0,0.0,1.5,0.0,9.0,9.0,8.5,0.0,0,20724,Doan Minh Hung,20724-Doan_Minh_Hung.pdf,Backend Architect,Payment Gateway,8,8,Architect,230,158
+0.0,1.0,3.0,0.0,2.5,5.5,5.5,0.0,1.0,0.0,3.0,4.5,0.0,4.0,7.5,7.5,0.0,3.0,0,20737,Huynh Tuyet Hong,20737-Huynh_Tuyet_Hong.pdf,Senior Software Engineer,ERP Solution,7,7,Senior,95,37
+1.0,3.5,3.5,1.5,0.0,5.5,5.5,1.0,0.0,2.0,5.0,5.5,3.0,0.0,6.5,6.5,2.0,0.0,0,20738,Pham Tuyet Nga,20738-Pham_Tuyet_Nga.pdf,Senior Software Engineer,AI Chatbot,5,5,Senior,106,70
+0.0,0.0,0.0,8.0,0.0,8.0,8.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,10.0,10.0,0.0,0.0,0,20740,Ly Hong Ngan,20740-Ly_Hong_Ngan.pdf,Senior Software Engineer,Payment Gateway,9,9,Senior,191,35
+0.0,0.0,0.0,0.0,2.0,3.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,5.0,5.0,0.0,2.0,0,20741,Ha Tam Hoa,20741-Ha_Tam_Hoa.pdf,Senior Software Engineer,Healthcare System,3,3,Senior,72,71
+0.0,0.0,4.0,0.0,0.0,2.5,2.5,0.0,2.0,0.0,0.0,5.5,0.0,0.0,4.5,4.5,0.0,4.0,0,20747,Hoang Thi Ha,20747-Hoang_Thi_Ha.pdf,Senior Software Engineer,Logistics Tracking Platform,7,7,Senior,102,44
+1.0,0.0,0.0,0.0,7.0,8.0,8.0,1.0,0.0,2.0,0.0,0.0,0.0,9.0,10.0,10.0,2.0,0.0,0,20751,Lam Tri Duc,20751-Lam_Tri_Duc.pdf,Senior Backend Developer,Real-time Dashboard,8,8,Senior,151,117
+0.0,0.0,0.0,0.0,1.5,1.5,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.5,1.5,1.5,0.0,0.0,2,20761,Trinh Huu Hai,20761-Trinh_Huu_Hai.pdf,Junior Backend Developer,IoT Monitoring System,2,2,Junior,23,15
+0.0,0.0,2.5,0.0,0.0,2.5,2.5,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,0.0,0.0,2,20766,Luu Anh Vinh,20766-Luu_Anh_Vinh.pdf,Middle Backend Developer,CRM System,4,4,Mid-level,36,12
+0.0,0.0,0.5,0.0,0.5,2.5,2.5,0.0,2.0,0.0,0.0,1.5,0.0,2.5,3.5,3.5,0.0,3.0,0,20774,Ly Hung Nam,20774-Ly_Hung_Nam.pdf,Middle Software Engineer,IoT Monitoring System,5,5,Mid-level,45,28
+0.0,0.0,4.5,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,5.5,2.0,0.0,3.0,3.0,0.0,0.0,0,20775,Ho Dung Sen,20775-Ho_Dung_Sen.pdf,Senior Software Engineer,Payment Gateway,6,6,Senior,138,81
+2.0,0.0,0.5,4.0,0.0,6.0,6.0,2.0,0.0,3.5,0.0,2.0,5.5,0.0,7.0,7.0,3.5,0.0,0,20779,Nguyen Hong Bich,20779-Nguyen_Hong_Bich.pdf,Backend Architect,Real-time Dashboard,7,7,Architect,222,38
+5.0,0.0,0.5,0.0,0.0,6.0,6.0,5.0,0.0,6.0,0.0,2.5,0.0,0.0,7.5,7.5,6.0,0.0,0,20781,Vo Nam Cuong,20781-Vo_Nam_Cuong.pdf,Senior Software Engineer,Learning Management System,7,7,Senior,103,96
+0.0,0.0,3.5,0.0,1.0,4.5,4.5,0.0,0.0,0.0,0.0,5.0,0.0,2.0,6.0,6.0,0.0,0.0,0,20787,Vuong Tam Hien,20787-Vuong_Tam_Hien.pdf,Senior Software Engineer,AI Chatbot,6,6,Senior,99,51
+0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,20789,Ha Mai Thuy,20789-Ha_Mai_Thuy.pdf,Junior Software Engineer,Fintech App,3,3,Junior,17,9
+0.0,0.0,1.5,0.0,1.0,2.5,2.5,0.0,0.0,0.0,0.0,3.0,0.0,3.0,3.0,3.0,0.0,0.0,1,20794,Vo Kien Son,20794-Vo_Kien_Son.pdf,Middle Software Engineer,Learning Management System,4,4,Mid-level,36,30
+0.0,5.5,7.0,1.5,0.0,8.5,8.5,0.0,0.0,0.0,7.0,9.0,2.5,0.0,10.5,10.5,0.0,0.0,0,20798,Vo Bich Mai,20798-Vo_Bich_Mai.pdf,Senior Frontend Developer,AI Chatbot,9,9,Senior,165,164
+3.5,0.0,0.0,0.0,0.0,4.5,4.5,3.5,1.0,5.0,0.0,0.0,0.0,0.0,6.5,6.5,5.0,2.5,0,20799,Tong Bich Dung,20799-Tong_Bich_Dung.pdf,Senior QA Engineer,Real-time Dashboard,5,5,Senior,105,68
+0.0,0.0,0.5,0.5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.5,2.0,0.0,2.5,2.5,0.0,0.0,0,20800,Hoang Trang Giang,20800-Hoang_Trang_Giang.pdf,Senior Software Engineer,E-commerce Platform,5,5,Senior,96,72
+0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,4,20802,Luu My Giang,20802-Luu_My_Giang.pdf,Junior Data Analyst,IoT Monitoring System,2,2,Junior,15,10
+0.0,1.0,1.0,1.5,3.5,6.5,6.5,0.0,0.0,0.0,3.0,2.0,3.0,4.5,8.0,8.0,0.0,0.0,0,20811,Mai Diem Nga,20811-Mai_Diem_Nga.pdf,Senior Software Engineer,IoT Monitoring System,7,7,Senior,126,53
+0.0,1.5,6.0,0.0,0.0,6.0,6.0,0.0,5.5,0.0,3.5,7.0,0.0,0.0,8.0,8.0,0.0,7.5,0,20812,Trinh Duy Khoa,20812-Trinh_Duy_Khoa.pdf,Software Architect,E-commerce Platform,7,7,Architect,215,75
+5.5,0.0,1.0,0.0,1.0,7.0,7.0,5.5,0.0,6.5,0.0,3.0,0.0,3.0,9.0,9.0,6.5,0.0,0,20815,Nguyen Minh Thang,20815-Nguyen_Minh_Thang.pdf,Backend Architect,Real-time Dashboard,7,7,Architect,223,102
+1.0,5.0,5.0,0.0,0.0,6.0,6.0,1.0,5.0,3.0,6.0,6.0,0.0,0.0,7.0,7.0,3.0,6.0,0,20820,Vu Hai Binh,20820-Vu_Hai_Binh.pdf,Senior DevOps Engineer,Learning Management System,5,5,Senior,111,94
+0.0,0.0,0.0,6.5,0.0,6.5,6.5,0.0,0.0,0.0,0.0,0.0,8.0,0.0,8.5,8.5,0.0,0.0,0,20824,Le Quang Quang,20824-Le_Quang_Quang.pdf,Senior Software Engineer,Learning Management System,8,8,Senior,188,110
+0.0,1.0,4.0,0.0,2.0,3.0,3.0,0.0,0.0,0.0,2.0,5.5,0.0,3.5,4.5,4.5,0.0,0.0,0,20825,Duong Anh Sen,20825-Duong_Anh_Sen.pdf,Senior Software Engineer,Healthcare System,6,6,Senior,163,154
+1.0,1.0,4.5,0.0,1.5,5.0,5.0,1.0,3.0,2.5,3.0,6.5,0.0,3.0,6.0,6.0,2.5,4.0,0,20826,Huynh Van Vinh,20826-Huynh_Van_Vinh.pdf,Software Architect,Logistics Tracking Platform,6,6,Architect,216,210
+0.0,1.0,4.5,0.0,0.0,4.5,4.5,0.0,3.5,0.0,2.5,6.0,0.0,0.0,5.5,5.5,0.0,4.5,0,20827,To Dat Y,20827-To_Dat_Y.pdf,Senior Software Engineer,Fintech App,5,5,Senior,109,88
+0.0,6.0,6.0,0.0,0.0,6.0,6.0,0.0,0.0,0.0,7.0,7.0,0.0,0.0,7.5,7.5,0.0,0.0,0,20831,Do Tam Uyen,20831-Do_Tam_Uyen.pdf,Frontend Architect,IoT Monitoring System,6,6,Architect,218,96
+0.0,0.5,0.5,0.0,5.5,6.5,6.5,0.0,1.0,0.0,2.0,2.5,0.0,7.5,8.5,8.5,0.0,2.5,0,20835,Vo Bao Duy,20835-Vo_Bao_Duy.pdf,Senior Software Engineer,AI Chatbot,8,8,Senior,167,144
+5.5,1.5,2.5,0.0,1.0,9.5,9.5,5.5,0.0,6.5,3.0,4.5,0.0,2.0,11.0,11.0,6.5,0.0,0,20836,Doan Bich Tien,20836-Doan_Bich_Tien.pdf,Senior QA Engineer,IoT Monitoring System,9,9,Senior,187,105
+1.5,6.0,6.0,0.0,0.0,7.5,7.5,1.5,6.0,3.5,7.5,7.0,0.0,0.0,9.5,9.5,3.5,8.0,0,20837,Trinh Lien Dung,20837-Trinh_Lien_Dung.pdf,Senior Backend Developer,Healthcare System,6,6,Senior,152,74
+0.0,4.5,4.5,0.0,0.0,4.5,4.5,0.0,1.5,0.0,6.0,6.5,0.0,0.0,6.5,6.5,0.0,2.5,0,20844,Dinh Diem Phuong,20844-Dinh_Diem_Phuong.pdf,Senior Data Scientist,Real-time Dashboard,5,5,Senior,143,36
+0.0,1.0,6.0,0.0,0.5,6.5,6.5,0.0,0.0,0.0,2.0,7.5,0.0,1.5,8.0,8.0,0.0,0.0,0,20849,Duong Long Tin,20849-Duong_Long_Tin.pdf,Senior QA Engineer,Payment Gateway,6,6,Senior,96,77
+0.0,0.5,0.5,0.0,0.0,0.5,0.5,0.0,0.0,0.0,2.5,1.5,0.0,0.0,1.5,1.5,0.0,0.0,0,20859,Luong Nam Phuc,20859-Luong_Nam_Phuc.pdf,Senior Software Engineer,IoT Monitoring System,5,5,Senior,135,111
+0.0,1.0,7.0,0.0,0.0,7.0,7.0,0.0,0.0,0.0,3.0,9.0,0.0,0.0,8.0,8.0,0.0,0.0,0,20867,Phan Anh Quang,20867-Phan_Anh_Quang.pdf,Senior Fullstack Developer,Payment Gateway,7,7,Senior,139,115
+0.0,4.0,4.0,0.0,0.5,5.0,5.0,0.0,0.0,0.0,5.5,6.0,0.0,2.0,6.5,6.5,0.0,0.0,0,20868,Tran My Tram,20868-Tran_My_Tram.pdf,Senior Software Engineer,AI Chatbot,6,6,Senior,111,95
+0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0,20870,Ly Tri Anh,20870-Ly_Tri_Anh.pdf,Senior Software Engineer,AI Chatbot,5,5,Senior,125,111
+0.0,3.0,3.0,0.0,0.0,3.0,3.0,0.0,3.0,0.0,4.5,4.5,0.0,0.0,4.5,4.5,0.0,4.0,2,20871,Ngo Nam Long,20871-Ngo_Nam_Long.pdf,Middle Data Scientist,Logistics Tracking Platform,4,4,Mid-level,56,24
+1.0,0.0,0.5,1.0,0.0,5.0,5.0,1.0,3.0,2.0,0.0,1.5,2.5,0.0,6.5,6.5,2.0,4.5,0,20873,Vo Huong Hanh,20873-Vo_Huong_Hanh.pdf,Senior Software Engineer,CRM System,7,7,Senior,120,98
+1.0,0.0,3.0,0.0,0.0,2.0,2.0,1.0,1.0,3.0,0.0,4.0,0.0,0.0,3.0,3.0,3.0,2.5,0,20877,Cao Dung Nga,20877-Cao_Dung_Nga.pdf,Middle Fullstack Developer,Logistics Tracking Platform,4,4,Mid-level,69,34
+0.0,5.0,5.5,0.0,1.5,7.0,7.0,0.0,5.0,0.0,6.5,6.5,0.0,3.5,8.0,8.0,0.0,7.0,0,20881,Dinh Huu Nam,20881-Dinh_Huu_Nam.pdf,Backend Architect,IoT Monitoring System,6,6,Architect,220,79
+0.0,0.5,1.0,0.0,5.0,5.5,5.5,0.0,0.0,0.0,2.5,3.0,0.0,6.0,7.0,7.0,0.0,0.0,0,20883,Luong Khanh Quang,20883-Luong_Khanh_Quang.pdf,Senior Backend Developer,CRM System,6,6,Senior,120,35
+0.0,4.0,4.5,0.0,0.0,4.5,4.5,0.0,4.5,0.0,6.0,5.5,0.0,0.0,5.5,5.5,0.0,5.5,0,20888,Pham Anh Tin,20888-Pham_Anh_Tin.pdf,Senior Software Engineer,E-commerce Platform,6,6,Senior,147,52
+0.0,4.0,5.5,0.0,0.0,5.0,5.0,0.0,3.5,0.0,6.0,7.5,0.0,0.0,6.5,6.5,0.0,5.5,0,20893,Ta Tam Thuy,20893-Ta_Tam_Thuy.pdf,Senior Software Engineer,Payment Gateway,7,7,Senior,90,74
+0.5,0.0,5.0,0.0,0.0,6.0,6.0,0.5,0.0,1.5,0.0,6.0,0.0,0.0,7.5,7.5,1.5,0.0,0,20896,Dang Tuan Tri,20896-Dang_Tuan_Tri.pdf,Senior Backend Developer,AI Chatbot,7,7,Senior,121,96
+0.0,6.0,6.0,0.0,1.0,7.0,7.0,0.0,1.0,0.0,7.5,8.0,0.0,3.0,9.0,9.0,0.0,2.5,0,20899,Huynh Dat Phong,20899-Huynh_Dat_Phong.pdf,Senior Backend Developer,AI Chatbot,8,8,Senior,144,95
+0.0,0.0,1.0,1.0,4.0,5.0,5.0,0.0,0.0,0.0,0.0,2.5,3.0,5.0,7.0,7.0,0.0,0.0,0,20900,Nguyen Nam Khoa,20900-Nguyen_Nam_Khoa.pdf,Senior Software Engineer,Fintech App,7,7,Senior,98,66
+0.5,0.0,1.0,0.0,0.0,1.5,1.5,0.5,0.0,1.0,0.0,1.0,0.0,0.0,1.5,1.5,1.0,0.0,3,20902,Luu Minh Kien,20902-Luu_Minh_Kien.pdf,Junior Backend Developer,Payment Gateway,3,3,Junior,17,6
+6.5,2.0,3.0,0.0,0.0,8.5,8.5,6.5,1.5,8.5,4.0,5.0,0.0,0.0,10.5,10.5,8.5,3.0,0,20904,Lam Giang Vy,20904-Lam_Giang_Vy.pdf,Senior Software Engineer,Logistics Tracking Platform,9,9,Senior,161,53
+7.0,1.5,1.5,0.0,0.0,9.0,9.0,7.0,0.5,8.5,2.5,3.0,0.0,0.0,11.0,11.0,8.5,2.0,0,20907,Luu Thi Yen,20907-Luu_Thi_Yen.pdf,Senior Software Engineer,CRM System,9,9,Senior,149,118
+0.0,6.0,6.0,0.0,0.0,6.0,6.0,0.0,4.5,0.0,7.5,7.5,0.0,0.0,8.0,8.0,0.0,5.5,0,20910,Pham Tri Phong,20910-Pham_Tri_Phong.pdf,Senior Data Scientist,Fintech App,9,9,Senior,156,92
+8.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,0.0,9.0,0.0,0.0,0.0,0.0,9.5,9.5,9.0,0.0,0,20911,Doan Diem Vy,20911-Doan_Diem_Vy.pdf,Senior Backend Developer,Payment Gateway,8,8,Senior,155,142
+0.0,1.0,5.0,0.0,0.5,5.5,5.5,0.0,4.0,0.0,3.0,6.0,0.0,1.5,7.0,7.0,0.0,5.0,0,20914,Trinh Lien Yen,20914-Trinh_Lien_Yen.pdf,Software Architect,Logistics Tracking Platform,7,7,Architect,194,20
+0.0,0.0,0.5,0.0,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,0.0,0.0,2,20916,Duong Long Dat,20916-Duong_Long_Dat.pdf,Junior Software Engineer,Learning Management System,1,1,Junior,8,4
+1.0,0.0,0.0,3.5,0.0,5.0,5.0,1.0,0.5,2.5,0.0,0.0,4.5,0.0,6.5,6.5,2.5,1.5,0,20917,To Hoang Duc,20917-To_Hoang_Duc.pdf,Software Architect,Fintech App,6,6,Architect,196,185
+0.0,0.0,0.0,6.0,0.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,7.5,0.0,8.0,8.0,0.0,0.0,0,20923,Dinh Giang Diem,20923-Dinh_Giang_Diem.pdf,Senior Software Engineer,Payment Gateway,6,6,Senior,106,66
+0.0,3.0,8.0,0.0,0.0,4.0,4.0,0.0,1.0,0.0,4.0,9.0,0.0,0.0,5.5,5.5,0.0,2.0,0,20924,Tran Minh Hoang,20924-Tran_Minh_Hoang.pdf,Senior Backend Developer,Learning Management System,8,8,Senior,166,96
+1.0,0.0,8.5,0.0,0.0,8.0,8.0,1.0,0.0,2.5,0.0,10.5,0.0,0.0,9.5,9.5,2.5,0.0,0,20930,Ta Trang Phuong,20930-Ta_Trang_Phuong.pdf,Senior Software Engineer,Fintech App,8,8,Senior,175,91
+0.0,2.0,4.0,0.0,1.0,4.0,4.0,0.0,1.0,0.0,4.0,5.0,0.0,2.5,5.0,5.0,0.0,3.0,0,20935,Nguyen Yen Thuy,20935-Nguyen_Yen_Thuy.pdf,Senior Software Engineer,Payment Gateway,6,6,Senior,160,83
+0.5,0.0,2.0,3.0,0.0,3.5,3.5,0.5,0.0,2.5,0.0,3.0,4.5,0.0,5.5,5.5,2.5,0.0,0,20936,Truong Tuan Hung,20936-Truong_Tuan_Hung.pdf,Backend Architect,Healthcare System,6,6,Architect,226,61
+0.0,0.0,1.0,3.5,0.5,5.0,5.0,0.0,0.5,0.0,0.0,2.5,4.5,2.5,6.0,6.0,0.0,2.0,0,20938,Ngo Hai Thang,20938-Ngo_Hai_Thang.pdf,Senior Software Engineer,AI Chatbot,7,7,Senior,88,46
+0.0,1.0,6.0,0.0,0.0,6.5,6.5,0.0,5.5,0.0,2.5,7.0,0.0,0.0,8.0,8.0,0.0,7.5,0,20940,Luong Hung Phong,20940-Luong_Hung_Phong.pdf,Senior Software Engineer,Logistics Tracking Platform,7,7,Senior,172,35
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,20941,Tran Lien Kim,20941-Tran_Lien_Kim.pdf,Middle Fullstack Developer,Fintech App,5,5,Mid-level,52,37
+0.0,2.0,5.5,0.0,0.0,4.0,4.0,0.0,3.0,0.0,3.0,7.0,0.0,0.0,5.0,5.0,0.0,5.0,0,20947,Tong Ngoc Nga,20947-Tong_Ngoc_Nga.pdf,Senior Software Engineer,E-commerce Platform,5,5,Senior,101,30
+4.5,0.0,1.0,0.0,0.0,5.5,5.5,4.5,0.0,6.5,0.0,3.0,0.0,0.0,6.5,6.5,6.5,0.0,0,20948,Dinh Dung Trang,20948-Dinh_Dung_Trang.pdf,Senior Backend Developer,Payment Gateway,6,6,Senior,86,86
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,20952,Doan Huong Anh,20952-Doan_Huong_Anh.pdf,Fresher Data Analyst,Mobile Banking App,1,1,Fresher,4,2
+1.5,1.0,1.0,0.0,3.0,5.5,5.5,1.5,1.0,2.5,2.5,2.5,0.0,4.5,7.0,7.0,2.5,2.0,0,20954,Ho Hung Manh,20954-Ho_Hung_Manh.pdf,Senior Backend Developer,Healthcare System,5,5,Senior,104,87
+3.5,0.0,0.0,1.0,0.0,5.0,5.0,3.5,0.0,5.5,0.0,0.0,2.0,0.0,6.5,6.5,5.5,0.0,0,20959,Vo Thuy Chau,20959-Vo_Thuy_Chau.pdf,Senior Backend Developer,E-commerce Platform,5,5,Senior,108,95
+0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,7.5,7.5,0.0,8.0,0,20961,Do Hong Mai,20961-Do_Hong_Mai.pdf,Solution Architect,Learning Management System,7,7,Architect,234,69
+0.0,1.5,1.5,0.0,0.0,2.0,2.0,0.0,2.0,0.0,2.5,3.0,0.0,0.0,3.5,3.5,0.0,3.0,0,20974,Vuong Minh Duc,20974-Vuong_Minh_Duc.pdf,Middle Software Engineer,Fintech App,3,3,Mid-level,63,54
+0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,4.0,0.0,0.0,0,20975,Trinh Thuy Lan,20975-Trinh_Thuy_Lan.pdf,Middle Software Engineer,Fintech App,3,3,Mid-level,61,13
+3.5,2.0,4.5,0.0,0.0,5.5,5.5,3.5,0.5,4.5,3.0,6.5,0.0,0.0,6.5,6.5,4.5,2.0,0,20978,Tran Hai Duc,20978-Tran_Hai_Duc.pdf,Senior Software Engineer,Real-time Dashboard,8,8,Senior,174,49
+0.0,0.0,0.5,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,3,20985,Do Duc Dat,20985-Do_Duc_Dat.pdf,Junior Software Engineer,Real-time Dashboard,2,2,Junior,17,7
+0.0,0.0,0.0,3.5,0.0,3.5,3.5,0.0,0.0,0.0,0.0,0.0,4.5,0.0,4.5,4.5,0.0,0.0,0,20986,Cao Trang Hanh,20986-Cao_Trang_Hanh.pdf,Middle Software Engineer,Healthcare System,4,4,Mid-level,80,58
+0.0,0.0,1.0,0.0,8.0,8.0,8.0,0.0,0.0,0.0,0.0,2.0,0.0,9.0,9.5,9.5,0.0,0.0,0,20994,Nguyen Tri Anh,20994-Nguyen_Tri_Anh.pdf,Senior Software Engineer,Fintech App,8,8,Senior,179,93
+0.0,3.0,3.0,0.0,0.0,3.0,3.0,0.0,3.0,0.0,4.0,5.0,0.0,0.0,5.0,5.0,0.0,5.0,0,20995,Nguyen Thu Ngan,20995-Nguyen_Thu_Ngan.pdf,Middle Data Analyst,Real-time Dashboard,5,5,Mid-level,72,16

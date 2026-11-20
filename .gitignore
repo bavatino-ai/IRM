@@ -1,0 +1,15 @@
+# environments & secrets
+.venv/
+venv/
+.env
+# python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# regenerable artefacts (rebuild with run.py)
+data/interim/
+data/processed/irm.db
+doc/issue_log.md
+*.log
+.DS_Store

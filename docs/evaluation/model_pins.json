@@ -1,0 +1,61 @@
+{
+  "checked_at": "2026-11-15T05:21:01+00:00",
+  "anthropic_workspace_header": true,
+  "results": [
+    {
+      "provider": "google",
+      "model": "gemini-3.5-flash-lite",
+      "model_version": "gemini-3.5-flash-lite",
+      "reply": "OK",
+      "latency_s": 5.76,
+      "roles": [
+        "ocr_candidate"
+      ]
+    },
+    {
+      "provider": "google",
+      "model": "gemini-2.5-flash",
+      "error": "ClientError(\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate",
+      "roles": [
+        "ocr_candidate",
+        "ocr",
+        "judge (swapped roles)"
+      ]
+    },
+    {
+      "provider": "google",
+      "model": "gemini-3.1-pro-preview",
+      "error": "ClientError(\"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate",
+      "roles": [
+        "ocr_candidate",
+        "answer"
+      ]
+    },
+    {
+      "provider": "google",
+      "model": "gemini-embedding-001",
+      "dimensions": 3072,
+      "latency_s": 1.1,
+      "roles": [
+        "embeddings"
+      ]
+    },
+    {
+      "provider": "anthropic",
+      "model": "claude-sonnet-5-5",
+      "error": "BadRequestError(\"Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'anthropic-workspace-id header must be a valid workspace ID.'}, 'request_id': 'req_011Ch49m8vEWDvZDkhChxE4U'}\")",
+      "roles": [
+        "judge"
+      ]
+    },
+    {
+      "provider": "anthropic",
+      "model": "claude-opus-5-5",
+      "error": "BadRequestError(\"Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'anthropic-workspace-id header must be a valid workspace ID.'}, 'request_id': 'req_011Ch49mBDPwtrhQSfmzUzCM'}\")",
+      "roles": [
+        "ocr (swapped roles)",
+        "answer (swapped roles)"
+      ]
+    }
+  ]
+}
